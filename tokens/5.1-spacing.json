@@ -1,0 +1,191 @@
+{
+  "spacing": {
+    "0": {
+      "$type": "dimension",
+      "$value": "0px",
+      "$description": "Spacing size 0"
+    },
+    "25": {
+      "$type": "dimension",
+      "$value": "2px",
+      "$description": "Spacing size 25"
+    },
+    "50": {
+      "$type": "dimension",
+      "$value": "4px",
+      "$description": "Spacing size 50"
+    },
+    "75": {
+      "$type": "dimension",
+      "$value": "6px",
+      "$description": "Spacing size 75"
+    },
+    "100": {
+      "$type": "dimension",
+      "$value": "8px",
+      "$description": "Spacing size 100"
+    },
+    "125": {
+      "$type": "dimension",
+      "$value": "10px",
+      "$description": "Spacing size 125"
+    },
+    "150": {
+      "$type": "dimension",
+      "$value": "12px",
+      "$description": "Spacing size 150"
+    },
+    "200": {
+      "$type": "dimension",
+      "$value": "16px",
+      "$description": "Spacing size 200"
+    },
+    "250": {
+      "$type": "dimension",
+      "$value": "20px",
+      "$description": "Spacing size 250"
+    },
+    "300": {
+      "$type": "dimension",
+      "$value": "24px",
+      "$description": "Spacing size 300"
+    },
+    "400": {
+      "$type": "dimension",
+      "$value": "32px",
+      "$description": "Spacing size 400"
+    },
+    "500": {
+      "$type": "dimension",
+      "$value": "40px",
+      "$description": "Spacing size 500"
+    },
+    "600": {
+      "$type": "dimension",
+      "$value": "48px",
+      "$description": "Spacing size 600"
+    },
+    "700": {
+      "$type": "dimension",
+      "$value": "56px",
+      "$description": "Spacing size 700"
+    },
+    "800": {
+      "$type": "dimension",
+      "$value": "64px",
+      "$description": "Spacing size 800"
+    },
+    "900": {
+      "$type": "dimension",
+      "$value": "72px",
+      "$description": "Spacing size 900"
+    },
+    "1000": {
+      "$type": "dimension",
+      "$value": "96px",
+      "$description": "Spacing size 1000"
+    },
+    "1100": {
+      "$type": "dimension",
+      "$value": "128px",
+      "$description": "Spacing size 1100"
+    },
+    "1200": {
+      "$type": "dimension",
+      "$value": "192px",
+      "$description": "Spacing size 1200"
+    }
+  },
+  "spacing-negative": {
+    "25": {
+      "$type": "dimension",
+      "$value": "-2px",
+      "$description": "Negative spacing size 25"
+    },
+    "50": {
+      "$type": "dimension",
+      "$value": "-4px",
+      "$description": "Negative spacing size 50"
+    },
+    "75": {
+      "$type": "dimension",
+      "$value": "-6px",
+      "$description": "Negative spacing size 75"
+    },
+    "100": {
+      "$type": "dimension",
+      "$value": "-8px",
+      "$description": "Negative spacing size 100"
+    },
+    "125": {
+      "$type": "dimension",
+      "$value": "-10px",
+      "$description": "Negative spacing size 125"
+    },
+    "150": {
+      "$type": "dimension",
+      "$value": "-12px",
+      "$description": "Negative spacing size 150"
+    },
+    "200": {
+      "$type": "dimension",
+      "$value": "-16px",
+      "$description": "Negative spacing size 200"
+    },
+    "250": {
+      "$type": "dimension",
+      "$value": "-20px",
+      "$description": "Negative spacing size 250"
+    },
+    "300": {
+      "$type": "dimension",
+      "$value": "-24px",
+      "$description": "Negative spacing size 300"
+    },
+    "400": {
+      "$type": "dimension",
+      "$value": "-32px",
+      "$description": "Negative spacing size 400"
+    },
+    "500": {
+      "$type": "dimension",
+      "$value": "-40px",
+      "$description": "Negative spacing size 500"
+    },
+    "600": {
+      "$type": "dimension",
+      "$value": "-48px",
+      "$description": "Negative spacing size 600"
+    },
+    "700": {
+      "$type": "dimension",
+      "$value": "-56px",
+      "$description": "Negative spacing size 700"
+    },
+    "800": {
+      "$type": "dimension",
+      "$value": "-64px",
+      "$description": "Negative spacing size 800"
+    },
+    "900": {
+      "$type": "dimension",
+      "$value": "-72px",
+      "$description": "Negative spacing size 900"
+    },
+    "1000": {
+      "$type": "dimension",
+      "$value": "-96px",
+      "$description": "Negative spacing size 1000"
+    },
+    "1100": {
+      "$type": "dimension",
+      "$value": "-128px",
+      "$description": "Negative spacing size 1100"
+    },
+    "1200": {
+      "$type": "dimension",
+      "$value": "-192px",
+      "$description": "Negative spacing size 1200"
+    }
+  }
+}

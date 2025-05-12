@@ -1,0 +1,21 @@
+.color-display {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.color-box {
+  text-align: center;
+}
+
+.color-swatch {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000;
+  border-radius: 4px;
+}
+
+p {
+  margin: 5px 0;
+}

@@ -1,0 +1,32 @@
+{
+  "color": {
+    "primitive": {
+      "red": {
+        "100": {
+          "$value": "#ff0000",
+          "$type": "color"
+        }
+      },
+      "blue": {
+        "100": {
+          "$value": "#0000ff",
+          "$type": "color"
+        }
+      }
+    },
+    "semantic": {
+      "primary": {
+        "base": {
+          "$value": "{color.primitive.blue.100}",
+          "$type": "color"
+        }
+      },
+      "error": {
+        "base": {
+          "$value": "{color.primitive.red.100}",
+          "$type": "color"
+        }
+      }
+    }
+  }
+}

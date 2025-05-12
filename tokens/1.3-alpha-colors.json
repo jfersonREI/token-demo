@@ -1,0 +1,166 @@
+{
+  "alpha-black": {
+    "0": {
+      "$type": "color",
+      "$value": "#00000000",
+      "$description": "Alpha black color shade 0"
+    },
+    "1": {
+      "$type": "color",
+      "$value": "#00000003",
+      "$description": "Alpha black color shade 1"
+    },
+    "2": {
+      "$type": "color",
+      "$value": "#00000005",
+      "$description": "Alpha black color shade 2"
+    },
+    "3": {
+      "$type": "color",
+      "$value": "#00000008",
+      "$description": "Alpha black color shade 3"
+    },
+    "4": {
+      "$type": "color",
+      "$value": "#0000000a",
+      "$description": "Alpha black color shade 4"
+    },
+    "5": {
+      "$type": "color",
+      "$value": "#0000000d",
+      "$description": "Alpha black color shade 5"
+    },
+    "10": {
+      "$type": "color",
+      "$value": "#0000001a",
+      "$description": "Alpha black color shade 10"
+    },
+    "20": {
+      "$type": "color",
+      "$value": "#00000033",
+      "$description": "Alpha black color shade 20"
+    },
+    "30": {
+      "$type": "color",
+      "$value": "#0000004d",
+      "$description": "Alpha black color shade 30"
+    },
+    "40": {
+      "$type": "color",
+      "$value": "#00000066",
+      "$description": "Alpha black color shade 40"
+    },
+    "50": {
+      "$type": "color",
+      "$value": "#00000080",
+      "$description": "Alpha black color shade 50"
+    },
+    "60": {
+      "$type": "color",
+      "$value": "#00000099",
+      "$description": "Alpha black color shade 60"
+    },
+    "70": {
+      "$type": "color",
+      "$value": "#000000b2",
+      "$description": "Alpha black color shade 70"
+    },
+    "80": {
+      "$type": "color",
+      "$value": "#000000cc",
+      "$description": "Alpha black color shade 80"
+    },
+    "90": {
+      "$type": "color",
+      "$value": "#000000e5",
+      "$description": "Alpha black color shade 90"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#000000",
+      "$description": "Alpha black color shade 100"
+    }
+  },
+  "alpha-white": {
+    "0": {
+      "$type": "color",
+      "$value": "#ffffff00",
+      "$description": "Alpha white color shade 0"
+    },
+    "1": {
+      "$type": "color",
+      "$value": "#ffffff03",
+      "$description": "Alpha white color shade 1"
+    },
+    "2": {
+      "$type": "color",
+      "$value": "#ffffff05",
+      "$description": "Alpha white color shade 2"
+    },
+    "3": {
+      "$type": "color",
+      "$value": "#ffffff08",
+      "$description": "Alpha white color shade 3"
+    },
+    "4": {
+      "$type": "color",
+      "$value": "#ffffff0a",
+      "$description": "Alpha white color shade 4"
+    },
+    "5": {
+      "$type": "color",
+      "$value": "#ffffff0d",
+      "$description": "Alpha white color shade 5"
+    },
+    "10": {
+      "$type": "color",
+      "$value": "#ffffff1a",
+      "$description": "Alpha white color shade 10"
+    },
+    "20": {
+      "$type": "color",
+      "$value": "#ffffff33",
+      "$description": "Alpha white color shade 20"
+    },
+    "30": {
+      "$type": "color",
+      "$value": "#ffffff4d",
+      "$description": "Alpha white color shade 30"
+    },
+    "40": {
+      "$type": "color",
+      "$value": "#ffffff66",
+      "$description": "Alpha white color shade 40"
+    },
+    "50": {
+      "$type": "color",
+      "$value": "#ffffff80",
+      "$description": "Alpha white color shade 50"
+    },
+    "60": {
+      "$type": "color",
+      "$value": "#ffffff99",
+      "$description": "Alpha white color shade 60"
+    },
+    "70": {
+      "$type": "color",
+      "$value": "#ffffffb2",
+      "$description": "Alpha white color shade 70"
+    },
+    "80": {
+      "$type": "color",
+      "$value": "#ffffffcc",
+      "$description": "Alpha white color shade 80"
+    },
+    "90": {
+      "$type": "color",
+      "$value": "#ffffffe5",
+      "$description": "Alpha white color shade 90"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "Alpha white color shade 100"
+    }
+  }
+}

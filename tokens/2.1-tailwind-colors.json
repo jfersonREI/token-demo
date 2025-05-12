@@ -1,0 +1,1256 @@
+{
+  "tw-amber": {
+    "50": {
+      "$type": "color",
+      "$value": "#fffbeb",
+      "$description": "Amber color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#fef3c7",
+      "$description": "Amber color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#fde68a",
+      "$description": "Amber color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#fcd34d",
+      "$description": "Amber color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#fbbf24",
+      "$description": "Amber color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#f59e0b",
+      "$description": "Amber color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#d97706",
+      "$description": "Amber color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#b45309",
+      "$description": "Amber color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#92400e",
+      "$description": "Amber color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#78350f",
+      "$description": "Amber color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#451a03",
+      "$description": "Amber color shade 950"
+    }
+  },
+  "tw-blue": {
+    "50": {
+      "$type": "color",
+      "$value": "#eff6ff",
+      "$description": "Blue color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#dbeafe",
+      "$description": "Blue color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#bfdbfe",
+      "$description": "Blue color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#93c5fd",
+      "$description": "Blue color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#60a5fa",
+      "$description": "Blue color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#3b82f6",
+      "$description": "Blue color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#2563eb",
+      "$description": "Blue color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#1d4ed8",
+      "$description": "Blue color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#1e40af",
+      "$description": "Blue color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#1e3a8a",
+      "$description": "Blue color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#172554",
+      "$description": "Blue color shade 950"
+    }
+  },
+  "tw-cyan": {
+    "50": {
+      "$type": "color",
+      "$value": "#ecfeff",
+      "$description": "Cyan color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#cffafe",
+      "$description": "Cyan color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#a5f3fc",
+      "$description": "Cyan color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#67e8f9",
+      "$description": "Cyan color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#22d3ee",
+      "$description": "Cyan color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#06b6d4",
+      "$description": "Cyan color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#0891b2",
+      "$description": "Cyan color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#0e7490",
+      "$description": "Cyan color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#155e75",
+      "$description": "Cyan color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#164e63",
+      "$description": "Cyan color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#083344",
+      "$description": "Cyan color shade 950"
+    }
+  },
+  "tw-emerald": {
+    "50": {
+      "$type": "color",
+      "$value": "#ecfdf5",
+      "$description": "Emerald color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#d1fae5",
+      "$description": "Emerald color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#a7f3d0",
+      "$description": "Emerald color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#6ee7b7",
+      "$description": "Emerald color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#34d399",
+      "$description": "Emerald color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#10b981",
+      "$description": "Emerald color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#059669",
+      "$description": "Emerald color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#047857",
+      "$description": "Emerald color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#065f46",
+      "$description": "Emerald color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#064e3b",
+      "$description": "Emerald color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#022c22",
+      "$description": "Emerald color shade 950"
+    }
+  },
+  "tw-fuchsia": {
+    "50": {
+      "$type": "color",
+      "$value": "#fdf4ff",
+      "$description": "Fuchsia color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#fae8ff",
+      "$description": "Fuchsia color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#f5d0fe",
+      "$description": "Fuchsia color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#f0abfc",
+      "$description": "Fuchsia color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#e879f9",
+      "$description": "Fuchsia color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#d946ef",
+      "$description": "Fuchsia color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#c026d3",
+      "$description": "Fuchsia color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#a21caf",
+      "$description": "Fuchsia color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#86198f",
+      "$description": "Fuchsia color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#701a75",
+      "$description": "Fuchsia color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#4a044e",
+      "$description": "Fuchsia color shade 950"
+    }
+  },
+  "tw-gray": {
+    "50": {
+      "$type": "color",
+      "$value": "#f9fafb",
+      "$description": "Gray color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#f3f4f6",
+      "$description": "Gray color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#e5e7eb",
+      "$description": "Gray color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#d1d5db",
+      "$description": "Gray color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#9ca3af",
+      "$description": "Gray color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#6b7280",
+      "$description": "Gray color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#4b5563",
+      "$description": "Gray color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#374151",
+      "$description": "Gray color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#1f2a44",
+      "$description": "Gray color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#111827",
+      "$description": "Gray color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#030712",
+      "$description": "Gray color shade 950"
+    }
+  },
+  "tw-green": {
+    "50": {
+      "$type": "color",
+      "$value": "#f0fdf4",
+      "$description": "Green color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#dcfce7",
+      "$description": "Green color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#bbf7d0",
+      "$description": "Green color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#86efac",
+      "$description": "Green color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#4ade80",
+      "$description": "Green color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#22c55e",
+      "$description": "Green color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#16a34a",
+      "$description": "Green color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#15803d",
+      "$description": "Green color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#166534",
+      "$description": "Green color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#14532d",
+      "$description": "Green color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#052e16",
+      "$description": "Green color shade 950"
+    }
+  },
+  "tw-indigo": {
+    "50": {
+      "$type": "color",
+      "$value": "#eef2ff",
+      "$description": "Indigo color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#e0e7ff",
+      "$description": "Indigo color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#c7d2fe",
+      "$description": "Indigo color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#a5b4fc",
+      "$description": "Indigo color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#818cf8",
+      "$description": "Indigo color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#6366f1",
+      "$description": "Indigo color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#4f46e5",
+      "$description": "Indigo color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#4338ca",
+      "$description": "Indigo color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#3730a3",
+      "$description": "Indigo color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#312e81",
+      "$description": "Indigo color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#1e1b4b",
+      "$description": "Indigo color shade 950"
+    }
+  },
+  "tw-lime": {
+    "50": {
+      "$type": "color",
+      "$value": "#f7fee7",
+      "$description": "Lime color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#ecfccb",
+      "$description": "Lime color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#d9f99d",
+      "$description": "Lime color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#bef264",
+      "$description": "Lime color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#a3e635",
+      "$description": "Lime color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#84cc16",
+      "$description": "Lime color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#65a30d",
+      "$description": "Lime color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#4d7c0f",
+      "$description": "Lime color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#3f6212",
+      "$description": "Lime color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#365314",
+      "$description": "Lime color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#1a2e05",
+      "$description": "Lime color shade 950"
+    }
+  },
+  "tw-neutral": {
+    "50": {
+      "$type": "color",
+      "$value": "#fafafa",
+      "$description": "Neutral color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#f5f5f5",
+      "$description": "Neutral color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#e5e5e5",
+      "$description": "Neutral color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#d4d4d4",
+      "$description": "Neutral color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#a3a3a3",
+      "$description": "Neutral color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#737373",
+      "$description": "Neutral color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#525252",
+      "$description": "Neutral color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#404040",
+      "$description": "Neutral color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#262626",
+      "$description": "Neutral color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#171717",
+      "$description": "Neutral color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#0a0a0a",
+      "$description": "Neutral color shade 950"
+    }
+  },
+  "tw-orange": {
+    "50": {
+      "$type": "color",
+      "$value": "#fff7ed",
+      "$description": "Orange color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#ffedd5",
+      "$description": "Orange color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#fed7aa",
+      "$description": "Orange color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#fdba74",
+      "$description": "Orange color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#fb923c",
+      "$description": "Orange color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#f97316",
+      "$description": "Orange color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#ea580c",
+      "$description": "Orange color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#c2410c",
+      "$description": "Orange color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#9a3412",
+      "$description": "Orange color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#7c2d12",
+      "$description": "Orange color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#431407",
+      "$description": "Orange color shade 950"
+    }
+  },
+  "tw-pink": {
+    "50": {
+      "$type": "color",
+      "$value": "#fdf2f8",
+      "$description": "Pink color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#fce7f3",
+      "$description": "Pink color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#fbcfe8",
+      "$description": "Pink color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#f9a8d4",
+      "$description": "Pink color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#f472b6",
+      "$description": "Pink color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#ec4899",
+      "$description": "Pink color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#db2777",
+      "$description": "Pink color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#be185d",
+      "$description": "Pink color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#9d174d",
+      "$description": "Pink color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#831843",
+      "$description": "Pink color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#500724",
+      "$description": "Pink color shade 950"
+    }
+  },
+  "tw-purple": {
+    "50": {
+      "$type": "color",
+      "$value": "#faf5ff",
+      "$description": "Purple color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#f3e8ff",
+      "$description": "Purple color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#e9d5ff",
+      "$description": "Purple color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#d8b4fe",
+      "$description": "Purple color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#c084fc",
+      "$description": "Purple color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#a855f7",
+      "$description": "Purple color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#9333ea",
+      "$description": "Purple color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#7e22ce",
+      "$description": "Purple color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#6b21a8",
+      "$description": "Purple color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#581c87",
+      "$description": "Purple color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#3b0764",
+      "$description": "Purple color shade 950"
+    }
+  },
+  "tw-red": {
+    "50": {
+      "$type": "color",
+      "$value": "#fef2f2",
+      "$description": "Red color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#fee2e2",
+      "$description": "Red color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#fecaca",
+      "$description": "Red color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#fca5a5",
+      "$description": "Red color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#f87171",
+      "$description": "Red color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#ef4444",
+      "$description": "Red color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#dc2626",
+      "$description": "Red color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#b91c1c",
+      "$description": "Red color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#991b1b",
+      "$description": "Red color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#7f1d1d",
+      "$description": "Red color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#450a0a",
+      "$description": "Red color shade 950"
+    }
+  },
+  "tw-rose": {
+    "50": {
+      "$type": "color",
+      "$value": "#fff1f2",
+      "$description": "Rose color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#ffe4e6",
+      "$description": "Rose color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#fecdd3",
+      "$description": "Rose color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#fda4af",
+      "$description": "Rose color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#fb7185",
+      "$description": "Rose color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#f43f5e",
+      "$description": "Rose color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#e11d48",
+      "$description": "Rose color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#be123c",
+      "$description": "Rose color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#9f1239",
+      "$description": "Rose color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#881337",
+      "$description": "Rose color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#4c0519",
+      "$description": "Rose color shade 950"
+    }
+  },
+  "tw-sky": {
+    "50": {
+      "$type": "color",
+      "$value": "#f0f9ff",
+      "$description": "Sky color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#e0f2fe",
+      "$description": "Sky color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#bae6fd",
+      "$description": "Sky color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#7dd3fc",
+      "$description": "Sky color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#38bdf8",
+      "$description": "Sky color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#0ea5e9",
+      "$description": "Sky color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#0284c7",
+      "$description": "Sky color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#0369a1",
+      "$description": "Sky color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#075985",
+      "$description": "Sky color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#0c4a6e",
+      "$description": "Sky color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#082f49",
+      "$description": "Sky color shade 950"
+    }
+  },
+  "tw-slate": {
+    "50": {
+      "$type": "color",
+      "$value": "#f8fafc",
+      "$description": "Slate color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#f1f5f9",
+      "$description": "Slate color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#e2e8f0",
+      "$description": "Slate color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#cbd5e1",
+      "$description": "Slate color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#94a3b8",
+      "$description": "Slate color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#64748b",
+      "$description": "Slate color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#475569",
+      "$description": "Slate color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#334155",
+      "$description": "Slate color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#1e293b",
+      "$description": "Slate color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#0f172a",
+      "$description": "Slate color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#020617",
+      "$description": "Slate color shade 950"
+    }
+  },
+  "tw-stone": {
+    "50": {
+      "$type": "color",
+      "$value": "#fafaf9",
+      "$description": "Stone color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#f5f5f4",
+      "$description": "Stone color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#e7e5e4",
+      "$description": "Stone color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#d6d3d1",
+      "$description": "Stone color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#a8a29e",
+      "$description": "Stone color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#78716c",
+      "$description": "Stone color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#57534e",
+      "$description": "Stone color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#44403c",
+      "$description": "Stone color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#292524",
+      "$description": "Stone color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#1c1917",
+      "$description": "Stone color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#0c0a09",
+      "$description": "Stone color shade 950"
+    }
+  },
+  "tw-teal": {
+    "50": {
+      "$type": "color",
+      "$value": "#f0fdfa",
+      "$description": "Teal color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#ccfbf1",
+      "$description": "Teal color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#99f6e4",
+      "$description": "Teal color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#5eead4",
+      "$description": "Teal color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#2dd4bf",
+      "$description": "Teal color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#14b8a6",
+      "$description": "Teal color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#0d9488",
+      "$description": "Teal color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#0f766e",
+      "$description": "Teal color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#115e59",
+      "$description": "Teal color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#134e4a",
+      "$description": "Teal color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#042f2e",
+      "$description": "Teal color shade 950"
+    }
+  },
+  "tw-violet": {
+    "50": {
+      "$type": "color",
+      "$value": "#f5f3ff",
+      "$description": "Violet color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#ede9fe",
+      "$description": "Violet color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#ddd6fe",
+      "$description": "Violet color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#c4b5fd",
+      "$description": "Violet color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#a78bfa",
+      "$description": "Violet color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#8b5cf6",
+      "$description": "Violet color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#7c3aed",
+      "$description": "Violet color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#6d28d9",
+      "$description": "Violet color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#5b21b6",
+      "$description": "Violet color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#4c1d95",
+      "$description": "Violet color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#2e1065",
+      "$description": "Violet color shade 950"
+    }
+  },
+  "tw-yellow": {
+    "50": {
+      "$type": "color",
+      "$value": "#fefce8",
+      "$description": "Yellow color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#fef9c3",
+      "$description": "Yellow color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#fef08a",
+      "$description": "Yellow color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#fde047",
+      "$description": "Yellow color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#facc15",
+      "$description": "Yellow color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#eab308",
+      "$description": "Yellow color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#ca8a04",
+      "$description": "Yellow color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#a16207",
+      "$description": "Yellow color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#854d0e",
+      "$description": "Yellow color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#713f12",
+      "$description": "Yellow color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#422006",
+      "$description": "Yellow color shade 950"
+    }
+  },
+  "tw-zinc": {
+    "50": {
+      "$type": "color",
+      "$value": "#fafafa",
+      "$description": "Zinc color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "#f4f4f5",
+      "$description": "Zinc color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "#e4e4e7",
+      "$description": "Zinc color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "#d4d4d8",
+      "$description": "Zinc color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "#a1a1aa",
+      "$description": "Zinc color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#71717a",
+      "$description": "Zinc color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#52525b",
+      "$description": "Zinc color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "#3f3f46",
+      "$description": "Zinc color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "#27272a",
+      "$description": "Zinc color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "#18181b",
+      "$description": "Zinc color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "#09090b",
+      "$description": "Zinc color shade 950"
+    }
+  }
+}

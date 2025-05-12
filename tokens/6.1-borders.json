@@ -1,0 +1,81 @@
+{
+  "border-radius": {
+    "none": {
+      "$type": "dimension",
+      "$value": "0px",
+      "$description": "Border radius size none"
+    },
+    "2xs": {
+      "$type": "dimension",
+      "$value": "2px",
+      "$description": "Border radius size 2xs"
+    },
+    "xs": {
+      "$type": "dimension",
+      "$value": "4px",
+      "$description": "Border radius size xs"
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "6px",
+      "$description": "Border radius size sm"
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "8px",
+      "$description": "Border radius size md"
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "12px",
+      "$description": "Border radius size lg"
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "16px",
+      "$description": "Border radius size xl"
+    },
+    "2xl": {
+      "$type": "dimension",
+      "$value": "20px",
+      "$description": "Border radius size 2xl"
+    },
+    "3xl": {
+      "$type": "dimension",
+      "$value": "30px",
+      "$description": "Border radius size 3xl"
+    },
+    "circle": {
+      "$type": "dimension",
+      "$value": "9999px",
+      "$description": "Border radius size circle"
+    }
+  },
+  "border-width": {
+    "0": {
+      "$type": "dimension",
+      "$value": "0px",
+      "$description": "Border width size 0"
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "1px",
+      "$description": "Border width size sm"
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "2px",
+      "$description": "Border width size md"
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "4px",
+      "$description": "Border width size lg"
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "8px",
+      "$description": "Border width size xl"
+    }
+  }
+}

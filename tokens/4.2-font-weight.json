@@ -1,0 +1,41 @@
+{
+  "font-weight": {
+    "light": {
+      "$type": "fontWeight",
+      "$value": "Light",
+      "$description": "Light font weight"
+    },
+    "regular": {
+      "$type": "fontWeight",
+      "$value": "Regular",
+      "$description": "Regular font weight"
+    },
+    "medium": {
+      "$type": "fontWeight",
+      "$value": "Medium",
+      "$description": "Medium font weight"
+    },
+    "semibold": {
+      "$type": "fontWeight",
+      "$value": "Semibold",
+      "$description": "Semibold font weight"
+    },
+    "bold": {
+      "$type": "fontWeight",
+      "$value": "Bold",
+      "$description": "Bold font weight"
+    },
+    "extrabold": {
+      "$type": "fontWeight",
+      "$value": "ExtraBold",
+      "$description": "Extrabold font weight"
+    }
+  },
+  "font-style": {
+    "italic": {
+      "$type": "fontStyle",
+      "$value": "Italic",
+      "$description": "Italic font style"
+    }
+  }
+}

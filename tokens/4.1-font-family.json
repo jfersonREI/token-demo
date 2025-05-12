@@ -1,0 +1,41 @@
+{
+  "font-family": {
+    "sans-1": {
+      "$type": "fontFamily",
+      "$value": "Outfit",
+      "$description": "Sans-1 font family"
+    },
+    "sans-2": {
+      "$type": "fontFamily",
+      "$value": "Inter",
+      "$description": "Sans-2 font family"
+    },
+    "serif": {
+      "$type": "fontFamily",
+      "$value": "Merriweather",
+      "$description": "Serif font family"
+    },
+    "mono": {
+      "$type": "fontFamily",
+      "$value": "Roboto Mono",
+      "$description": "Monospace font family"
+    }
+  },
+  "font-role": {
+    "body": {
+      "$type": "fontFamily",
+      "$value": "Inter",
+      "$description": "Body text font role"
+    },
+    "heading": {
+      "$type": "fontFamily",
+      "$value": "Outfit",
+      "$description": "Heading text font role"
+    },
+    "label": {
+      "$type": "fontFamily",
+      "$value": "Inter",
+      "$description": "Label text font role"
+    }
+  }
+}

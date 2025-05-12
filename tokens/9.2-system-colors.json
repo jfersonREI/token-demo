@@ -1,0 +1,222 @@
+{
+  "surface": {
+    "base": {
+      "$type": "color",
+      "$value": "{white.base}",
+      "$description": "Surface base color"
+    },
+    "10": {
+      "$type": "color",
+      "$value": "{neutral.50}",
+      "$description": "Surface color shade 10"
+    },
+    "20": {
+      "$type": "color",
+      "$value": "{neutral.100}",
+      "$description": "Surface color shade 20"
+    },
+    "30": {
+      "$type": "color",
+      "$value": "{neutral.200}",
+      "$description": "Surface color shade 30"
+    },
+    "40": {
+      "$type": "color",
+      "$value": "{neutral.300}",
+      "$description": "Surface color shade 40"
+    },
+    "50": {
+      "$type": "color",
+      "$value": "{neutral.600}",
+      "$description": "Surface color shade 50"
+    },
+    "on-surface": {
+      "$type": "color",
+      "$value": "{neutral.950}",
+      "$description": "On-surface color"
+    },
+    "on-surface-variant": {
+      "$type": "color",
+      "$value": "{neutral.0}",
+      "$description": "On-surface variant color"
+    },
+    "inverse": {
+      "$type": "color",
+      "$value": "{black.base}",
+      "$description": "Inverse surface color"
+    },
+    "on-surface-inverse": {
+      "$type": "color",
+      "$value": "{white.base}",
+      "$description": "On-surface inverse color"
+    }
+  },
+  "primary": {
+    "surface-10": {
+      "$type": "color",
+      "$value": "{primary.200}",
+      "$description": "Primary surface color shade 10"
+    },
+    "surface-20": {
+      "$type": "color",
+      "$value": "{primary.300}",
+      "$description": "Primary surface color shade 20"
+    },
+    "on-primary": {
+      "$type": "color",
+      "$value": "{primary.950}",
+      "$description": "On-primary color"
+    },
+    "on-primary-variant": {
+      "$type": "color",
+      "$value": "{primary.950}",
+      "$description": "On-primary variant color"
+    }
+  },
+  "secondary": {
+    "surface-10": {
+      "$type": "color",
+      "$value": "{secondary.200}",
+      "$description": "Secondary surface color shade 10"
+    },
+    "surface-20": {
+      "$type": "color",
+      "$value": "{secondary.300}",
+      "$description": "Secondary surface color shade 20"
+    },
+    "on-secondary": {
+      "$type": "color",
+      "$value": "{secondary.950}",
+      "$description": "On-secondary color"
+    },
+    "on-secondary-variant": {
+      "$type": "color",
+      "$value": "{secondary.950}",
+      "$description": "On-secondary variant color"
+    }
+  },
+  "tertiary": {
+    "surface-10": {
+      "$type": "color",
+      "$value": "{tertiary.100}",
+      "$description": "Tertiary surface color shade 10"
+    },
+    "surface-20": {
+      "$type": "color",
+      "$value": "{tertiary.200}",
+      "$description": "Tertiary surface color shade 20"
+    },
+    "on-tertiary": {
+      "$type": "color",
+      "$value": "{tertiary.950}",
+      "$description": "On-tertiary color"
+    },
+    "on-tertiary-variant": {
+      "$type": "color",
+      "$value": "{tertiary.950}",
+      "$description": "On-tertiary variant color"
+    }
+  },
+  "scrim": {
+    "base": {
+      "$type": "color",
+      "$value": "{alpha-black.100}",
+      "$description": "Scrim base color"
+    }
+  },
+  "focus-ring": {
+    "color": {
+      "$type": "color",
+      "$value": "{secondary.500}",
+      "$description": "Focus ring color"
+    }
+  },
+  "alert-error": {
+    "on-surface": {
+      "$type": "color",
+      "$value": "{neutral.950}",
+      "$description": "Alert error on-surface color"
+    },
+    "surface": {
+      "$type": "color",
+      "$value": "{tw-rose.50}",
+      "$description": "Alert error surface color"
+    },
+    "border-color": {
+      "$type": "color",
+      "$value": "{tw-rose.600}",
+      "$description": "Alert error border color"
+    },
+    "icon-color": {
+      "$type": "color",
+      "$value": "{tw-rose.600}",
+      "$description": "Alert error icon color"
+    }
+  },
+  "alert-warning": {
+    "surface": {
+      "$type": "color",
+      "$value": "{tertiary.50}",
+      "$description": "Alert warning surface color"
+    },
+    "on-surface": {
+      "$type": "color",
+      "$value": "{neutral.950}",
+      "$description": "Alert warning on-surface color"
+    },
+    "border-color": {
+      "$type": "color",
+      "$value": "{tw-yellow.500}",
+      "$description": "Alert warning border color"
+    },
+    "icon-color": {
+      "$type": "color",
+      "$value": "{tw-yellow.500}",
+      "$description": "Alert warning icon color"
+    }
+  },
+  "alert-success": {
+    "surface": {
+      "$type": "color",
+      "$value": "{tw-emerald.50}",
+      "$description": "Alert success surface color"
+    },
+    "on-surface": {
+      "$type": "color",
+      "$value": "{neutral.950}",
+      "$description": "Alert success on-surface color"
+    },
+    "border-color": {
+      "$type": "color",
+      "$value": "{tw-emerald.600}",
+      "$description": "Alert success border color"
+    },
+    "icon-color": {
+      "$type": "color",
+      "$value": "{tw-emerald.600}",
+      "$description": "Alert success icon color"
+    }
+  },
+  "alert-info": {
+    "surface": {
+      "$type": "color",
+      "$value": "{tw-blue.50}",
+      "$description": "Alert info surface color"
+    },
+    "on-surface": {
+      "$type": "color",
+      "$value": "{neutral.950}",
+      "$description": "Alert info on-surface color"
+    },
+    "border-color": {
+      "$type": "color",
+      "$value": "{tw-blue.600}",
+      "$description": "Alert info border color"
+    },
+    "icon-color": {
+      "$type": "color",
+      "$value": "{tw-blue.600}",
+      "$description": "Alert info icon color"
+    }
+  }
+}

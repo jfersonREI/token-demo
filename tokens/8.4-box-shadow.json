@@ -1,0 +1,56 @@
+{
+  "box-shadow": {
+    "default": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "x": "0px",
+          "y": "1px",
+          "blur": "2px",
+          "spread": "0px",
+          "color": "rgba(0, 0, 0, 0.1)"
+        }
+      ],
+      "$description": "Box-shadow for subtle elevation"
+    },
+    "card": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "x": "0px",
+          "y": "2px",
+          "blur": "4px",
+          "spread": "0px",
+          "color": "rgba(0, 0, 0, 0.1)"
+        }
+      ],
+      "$description": "Box-shadow for card components"
+    },
+    "dropdown": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "x": "0px",
+          "y": "8px",
+          "blur": "16px",
+          "spread": "0px",
+          "color": "rgba(0, 0, 0, 0.1)"
+        }
+      ],
+      "$description": "Box-shadow for dropdowns or popovers"
+    },
+    "modal": {
+      "$type": "shadow",
+      "$value": [
+        {
+          "x": "0px",
+          "y": "16px",
+          "blur": "24px",
+          "spread": "0px",
+          "color": "rgba(0, 0, 0, 0.1)"
+        }
+      ],
+      "$description": "Box-shadow for modal dialogs"
+    }
+  }
+}

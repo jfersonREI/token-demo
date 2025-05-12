@@ -1,0 +1,311 @@
+{
+  "white": {
+    "base": {
+      "$type": "color",
+      "$value": "#ffffff",
+      "$description": "White color base"
+    }
+  },
+  "black": {
+    "base": {
+      "$type": "color",
+      "$value": "#000000",
+      "$description": "Black color base"
+    }
+  },
+  "neutral": {
+    "50": {
+      "$type": "color",
+      "$value": "{tw-slate.50}",
+      "$description": "Neutral color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "{tw-slate.100}",
+      "$description": "Neutral color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "{tw-slate.200}",
+      "$description": "Neutral color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "{tw-slate.300}",
+      "$description": "Neutral color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "{tw-slate.400}",
+      "$description": "Neutral color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "{tw-slate.500}",
+      "$description": "Neutral color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "{tw-slate.600}",
+      "$description": "Neutral color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "{tw-slate.700}",
+      "$description": "Neutral color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "{tw-slate.800}",
+      "$description": "Neutral color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "{tw-slate.900}",
+      "$description": "Neutral color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "{tw-slate.950}",
+      "$description": "Neutral color shade 950"
+    },
+    "0": {
+      "$type": "color",
+      "$value": "{alpha-white.0}",
+      "$description": "Neutral color shade 0"
+    }
+  },
+  "neutral-variant": {
+    "50": {
+      "$type": "color",
+      "$value": "{tw-gray.50}",
+      "$description": "Neutral variant color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "{tw-gray.100}",
+      "$description": "Neutral variant color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "{tw-gray.200}",
+      "$description": "Neutral variant color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "{tw-gray.300}",
+      "$description": "Neutral variant color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "{tw-gray.400}",
+      "$description": "Neutral variant color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "{tw-gray.500}",
+      "$description": "Neutral variant color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "{tw-gray.600}",
+      "$description": "Neutral variant color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "{tw-gray.700}",
+      "$description": "Neutral variant color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "{tw-gray.800}",
+      "$description": "Neutral variant color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "{tw-gray.900}",
+      "$description": "Neutral variant color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "{tw-gray.950}",
+      "$description": "Neutral variant color shade 950"
+    },
+    "0": {
+      "$type": "color",
+      "$value": "{alpha-white.0}",
+      "$description": "Neutral variant color shade 0"
+    }
+  },
+  "primary": {
+    "50": {
+      "$type": "color",
+      "$value": "{tw-teal.50}",
+      "$description": "Primary color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "{tw-teal.100}",
+      "$description": "Primary color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "{tw-teal.200}",
+      "$description": "Primary color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "{tw-teal.300}",
+      "$description": "Primary color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "{tw-teal.400}",
+      "$description": "Primary color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "{tw-teal.500}",
+      "$description": "Primary color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "{tw-teal.600}",
+      "$description": "Primary color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "{tw-teal.700}",
+      "$description": "Primary color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "{tw-teal.800}",
+      "$description": "Primary color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "{tw-teal.900}",
+      "$description": "Primary color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "{tw-teal.950}",
+      "$description": "Primary color shade 950"
+    }
+  },
+  "secondary": {
+    "50": {
+      "$type": "color",
+      "$value": "{tw-sky.50}",
+      "$description": "Secondary color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "{tw-sky.100}",
+      "$description": "Secondary color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "{tw-sky.200}",
+      "$description": "Secondary color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "{tw-sky.300}",
+      "$description": "Secondary color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "{tw-sky.400}",
+      "$description": "Secondary color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "{tw-sky.500}",
+      "$description": "Secondary color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "{tw-sky.600}",
+      "$description": "Secondary color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "{tw-sky.700}",
+      "$description": "Secondary color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "{tw-sky.800}",
+      "$description": "Secondary color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "{tw-sky.900}",
+      "$description": "Secondary color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "{tw-sky.950}",
+      "$description": "Secondary color shade 950"
+    }
+  },
+  "tertiary": {
+    "50": {
+      "$type": "color",
+      "$value": "{tw-yellow.50}",
+      "$description": "Tertiary color shade 50"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "{tw-yellow.100}",
+      "$description": "Tertiary color shade 100"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "{tw-yellow.200}",
+      "$description": "Tertiary color shade 200"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "{tw-yellow.300}",
+      "$description": "Tertiary color shade 300"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "{tw-yellow.400}",
+      "$description": "Tertiary color shade 400"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "{tw-yellow.500}",
+      "$description": "Tertiary color shade 500"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "{tw-yellow.600}",
+      "$description": "Tertiary color shade 600"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "{tw-yellow.700}",
+      "$description": "Tertiary color shade 700"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "{tw-yellow.800}",
+      "$description": "Tertiary color shade 800"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "{tw-yellow.900}",
+      "$description": "Tertiary color shade 900"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "{tw-yellow.950}",
+      "$description": "Tertiary color shade 950"
+    }
+  }
+}

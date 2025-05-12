@@ -1,0 +1,34 @@
+{
+  "icon-size": {
+    "xs": {
+      "$type": "dimension",
+      "$value": "16px",
+      "$description": "Icon size xs"
+    },
+    "sm": {
+      "$type": "dimension",
+      "$value": "20px",
+      "$description": "Icon size sm"
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "24px",
+      "$description": "Icon size md"
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "32px",
+      "$description": "Icon size lg"
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "48px",
+      "$description": "Icon size xl"
+    },
+    "2xl": {
+      "$type": "dimension",
+      "$value": "64px",
+      "$description": "Icon size 2xl"
+    }
+  }
+}

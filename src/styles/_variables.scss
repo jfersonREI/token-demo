@@ -1,0 +1,996 @@
+
+// Do not edit directly, this file was auto-generated.
+
+$rds-blue-5: #eff6fb; // Blue color shade 5
+$rds-blue-10: #d9e8f6; // Blue color shade 10
+$rds-blue-20: #aacdec; // Blue color shade 20
+$rds-blue-30: #73b3e7; // Blue color shade 30
+$rds-blue-40: #4f97d1; // Blue color shade 40
+$rds-blue-50: #2378c3; // Blue color shade 50
+$rds-blue-60: #2c608a; // Blue color shade 60
+$rds-blue-70: #274863; // Blue color shade 70
+$rds-blue-80: #1f303e; // Blue color shade 80
+$rds-blue-90: #11181d; // Blue color shade 90
+$rds-blue-cool-5: #e7f2f5; // Blue cool color shade 5
+$rds-blue-cool-10: #dae9ee; // Blue cool color shade 10
+$rds-blue-cool-20: #adcfdc; // Blue cool color shade 20
+$rds-blue-cool-30: #82b4c9; // Blue cool color shade 30
+$rds-blue-cool-40: #6499af; // Blue cool color shade 40
+$rds-blue-cool-50: #3a7d95; // Blue cool color shade 50
+$rds-blue-cool-60: #2e6276; // Blue cool color shade 60
+$rds-blue-cool-70: #224a58; // Blue cool color shade 70
+$rds-blue-cool-80: #14333d; // Blue cool color shade 80
+$rds-blue-cool-90: #0f191c; // Blue cool color shade 90
+$rds-blue-cool-vivid-5v: #e1f3f8; // Blue cool vivid color shade 5v
+$rds-blue-cool-vivid-10v: #c3ebfa; // Blue cool vivid color shade 10v
+$rds-blue-cool-vivid-20v: #97d4ea; // Blue cool vivid color shade 20v
+$rds-blue-cool-vivid-30v: #59b9de; // Blue cool vivid color shade 30v
+$rds-blue-cool-vivid-40v: #28a0cb; // Blue cool vivid color shade 40v
+$rds-blue-cool-vivid-50v: #0d7ea2; // Blue cool vivid color shade 50v
+$rds-blue-cool-vivid-60v: #07648d; // Blue cool vivid color shade 60v
+$rds-blue-cool-vivid-70v: #074b69; // Blue cool vivid color shade 70v
+$rds-blue-cool-vivid-80v: #002d3f; // Blue cool vivid color shade 80v
+$rds-blue-vivid-5v: #e8f5ff; // Blue vivid color shade 5v
+$rds-blue-vivid-10v: #cfe8ff; // Blue vivid color shade 10v
+$rds-blue-vivid-20v: #a1d3ff; // Blue vivid color shade 20v
+$rds-blue-vivid-30v: #58b4ff; // Blue vivid color shade 30v
+$rds-blue-vivid-40v: #2491ff; // Blue vivid color shade 40v
+$rds-blue-vivid-50v: #0076d6; // Blue vivid color shade 50v
+$rds-blue-vivid-60v: #005ea2; // Blue vivid color shade 60v
+$rds-blue-vivid-70v: #0b4778; // Blue vivid color shade 70v
+$rds-blue-vivid-80v: #112f4e; // Blue vivid color shade 80v
+$rds-blue-warm-5: #ecf1f7; // Blue warm color shade 5
+$rds-blue-warm-10: #e1e7f1; // Blue warm color shade 10
+$rds-blue-warm-20: #bbcae4; // Blue warm color shade 20
+$rds-blue-warm-30: #98afd2; // Blue warm color shade 30
+$rds-blue-warm-40: #7292c7; // Blue warm color shade 40
+$rds-blue-warm-50: #4a77b4; // Blue warm color shade 50
+$rds-blue-warm-60: #345d96; // Blue warm color shade 60
+$rds-blue-warm-70: #2f4668; // Blue warm color shade 70
+$rds-blue-warm-80: #252f3e; // Blue warm color shade 80
+$rds-blue-warm-90: #13171f; // Blue warm color shade 90
+$rds-blue-warm-vivid-5v: #edf5ff; // Blue warm vivid color shade 5v
+$rds-blue-warm-vivid-10v: #d4e5ff; // Blue warm vivid color shade 10v
+$rds-blue-warm-vivid-20v: #adcdff; // Blue warm vivid color shade 20v
+$rds-blue-warm-vivid-30v: #81aefc; // Blue warm vivid color shade 30v
+$rds-blue-warm-vivid-40v: #5994f6; // Blue warm vivid color shade 40v
+$rds-blue-warm-vivid-50v: #2672de; // Blue warm vivid color shade 50v
+$rds-blue-warm-vivid-60v: #0050d8; // Blue warm vivid color shade 60v
+$rds-blue-warm-vivid-70v: #1a4480; // Blue warm vivid color shade 70v
+$rds-blue-warm-vivid-80v: #162e51; // Blue warm vivid color shade 80v
+$rds-cyan-5: #e7f6f8; // Cyan color shade 5
+$rds-cyan-10: #ccecf2; // Cyan color shade 10
+$rds-cyan-20: #99deea; // Cyan color shade 20
+$rds-cyan-30: #5dc0d1; // Cyan color shade 30
+$rds-cyan-40: #449dac; // Cyan color shade 40
+$rds-cyan-50: #168092; // Cyan color shade 50
+$rds-cyan-60: #2a646d; // Cyan color shade 60
+$rds-cyan-70: #2c4a4e; // Cyan color shade 70
+$rds-cyan-80: #203133; // Cyan color shade 80
+$rds-cyan-90: #111819; // Cyan color shade 90
+$rds-cyan-vivid-5v: #e5faff; // Cyan vivid color shade 5v
+$rds-cyan-vivid-10v: #a8f2ff; // Cyan vivid color shade 10v
+$rds-cyan-vivid-20v: #52daf2; // Cyan vivid color shade 20v
+$rds-cyan-vivid-30v: #00bde3; // Cyan vivid color shade 30v
+$rds-cyan-vivid-40v: #009ec1; // Cyan vivid color shade 40v
+$rds-cyan-vivid-50v: #0081a1; // Cyan vivid color shade 50v
+$rds-cyan-vivid-60v: #00687d; // Cyan vivid color shade 60v
+$rds-cyan-vivid-70v: #0e4f5c; // Cyan vivid color shade 70v
+$rds-cyan-vivid-80v: #093b44; // Cyan vivid color shade 80v
+$rds-gold-5: #f5f0e6; // Gold color shade 5
+$rds-gold-10: #f1e5cd; // Gold color shade 10
+$rds-gold-20: #dec69a; // Gold color shade 20
+$rds-gold-30: #c7a97b; // Gold color shade 30
+$rds-gold-40: #ad8b65; // Gold color shade 40
+$rds-gold-50: #8e704f; // Gold color shade 50
+$rds-gold-60: #6b5947; // Gold color shade 60
+$rds-gold-70: #4d4438; // Gold color shade 70
+$rds-gold-80: #322d26; // Gold color shade 80
+$rds-gold-90: #191714; // Gold color shade 90
+$rds-gold-vivid-5v: #fef0c8; // Gold vivid color shade 5v
+$rds-gold-vivid-10v: #ffe396; // Gold vivid color shade 10v
+$rds-gold-vivid-20v: #ffbe2e; // Gold vivid color shade 20v
+$rds-gold-vivid-30v: #e5a000; // Gold vivid color shade 30v
+$rds-gold-vivid-40v: #c2850c; // Gold vivid color shade 40v
+$rds-gold-vivid-50v: #936f38; // Gold vivid color shade 50v
+$rds-gold-vivid-60v: #7a591a; // Gold vivid color shade 60v
+$rds-gold-vivid-70v: #5c410a; // Gold vivid color shade 70v
+$rds-gold-vivid-80v: #3b2b15; // Gold vivid color shade 80v
+$rds-gray-1: #fcfcfc; // Gray color shade 1
+$rds-gray-2: #f9f9f9; // Gray color shade 2
+$rds-gray-3: #f6f6f6; // Gray color shade 3
+$rds-gray-4: #f3f3f3; // Gray color shade 4
+$rds-gray-5: #f0f0f0; // Gray color shade 5
+$rds-gray-10: #e6e6e6; // Gray color shade 10
+$rds-gray-20: #c9c9c9; // Gray color shade 20
+$rds-gray-30: #adadad; // Gray color shade 30
+$rds-gray-40: #919191; // Gray color shade 40
+$rds-gray-50: #757575; // Gray color shade 50
+$rds-gray-60: #5c5c5c; // Gray color shade 60
+$rds-gray-70: #454545; // Gray color shade 70
+$rds-gray-80: #2e2e2e; // Gray color shade 80
+$rds-gray-90: #1b1b1b; // Gray color shade 90
+$rds-gray-cool-1: #fbfcfd; // Gray cool color shade 1
+$rds-gray-cool-2: #f7f9fa; // Gray cool color shade 2
+$rds-gray-cool-3: #f5f6f7; // Gray cool color shade 3
+$rds-gray-cool-4: #f1f3f6; // Gray cool color shade 4
+$rds-gray-cool-5: #edeff0; // Gray cool color shade 5
+$rds-gray-cool-10: #dfe1e2; // Gray cool color shade 10
+$rds-gray-cool-20: #c6cace; // Gray cool color shade 20
+$rds-gray-cool-30: #a9aeb1; // Gray cool color shade 30
+$rds-gray-cool-40: #8d9297; // Gray cool color shade 40
+$rds-gray-cool-50: #71767a; // Gray cool color shade 50
+$rds-gray-cool-60: #565c65; // Gray cool color shade 60
+$rds-gray-cool-70: #3d4551; // Gray cool color shade 70
+$rds-gray-cool-80: #2d2e2f; // Gray cool color shade 80
+$rds-gray-cool-90: #1c1d1f; // Gray cool color shade 90
+$rds-gray-warm-1: #fcfcfb; // Gray warm color shade 1
+$rds-gray-warm-2: #f9f9f7; // Gray warm color shade 2
+$rds-gray-warm-3: #f6f6f2; // Gray warm color shade 3
+$rds-gray-warm-4: #f5f5f0; // Gray warm color shade 4
+$rds-gray-warm-5: #f0f0ec; // Gray warm color shade 5
+$rds-gray-warm-10: #e6e6e2; // Gray warm color shade 10
+$rds-gray-warm-20: #cac9c0; // Gray warm color shade 20
+$rds-gray-warm-30: #afaea2; // Gray warm color shade 30
+$rds-gray-warm-40: #929285; // Gray warm color shade 40
+$rds-gray-warm-50: #76766a; // Gray warm color shade 50
+$rds-gray-warm-60: #5d5d52; // Gray warm color shade 60
+$rds-gray-warm-70: #454540; // Gray warm color shade 70
+$rds-gray-warm-80: #2e2e2a; // Gray warm color shade 80
+$rds-gray-warm-90: #171716; // Gray warm color shade 90
+$rds-green-5: #eaf4dd; // Green color shade 5
+$rds-green-10: #dfeacd; // Green color shade 10
+$rds-green-20: #b8d293; // Green color shade 20
+$rds-green-30: #9bb672; // Green color shade 30
+$rds-green-40: #7d9b4e; // Green color shade 40
+$rds-green-50: #607f35; // Green color shade 50
+$rds-green-60: #4c6424; // Green color shade 60
+$rds-green-70: #3c4a29; // Green color shade 70
+$rds-green-80: #293021; // Green color shade 80
+$rds-green-90: #161814; // Green color shade 90
+$rds-green-cool-5: #ecf3ec; // Green cool color shade 5
+$rds-green-cool-10: #dbebde; // Green cool color shade 10
+$rds-green-cool-20: #b4d0b9; // Green cool color shade 20
+$rds-green-cool-30: #86b98e; // Green cool color shade 30
+$rds-green-cool-40: #5e9f69; // Green cool color shade 40
+$rds-green-cool-50: #4d8055; // Green cool color shade 50
+$rds-green-cool-60: #446443; // Green cool color shade 60
+$rds-green-cool-70: #37493b; // Green cool color shade 70
+$rds-green-cool-80: #28312a; // Green cool color shade 80
+$rds-green-cool-90: #1a1f1a; // Green cool color shade 90
+$rds-green-cool-vivid-5v: #e3f5e1; // Green cool vivid color shade 5v
+$rds-green-cool-vivid-10v: #b7f5bd; // Green cool vivid color shade 10v
+$rds-green-cool-vivid-20v: #70e17b; // Green cool vivid color shade 20v
+$rds-green-cool-vivid-30v: #21c834; // Green cool vivid color shade 30v
+$rds-green-cool-vivid-40v: #00a91c; // Green cool vivid color shade 40v
+$rds-green-cool-vivid-50v: #008817; // Green cool vivid color shade 50v
+$rds-green-cool-vivid-60v: #216e1f; // Green cool vivid color shade 60v
+$rds-green-cool-vivid-70v: #154c21; // Green cool vivid color shade 70v
+$rds-green-cool-vivid-80v: #19311e; // Green cool vivid color shade 80v
+$rds-green-vivid-5v: #ddf9c7; // Green vivid color shade 5v
+$rds-green-vivid-10v: #c5ee93; // Green vivid color shade 10v
+$rds-green-vivid-20v: #98d035; // Green vivid color shade 20v
+$rds-green-vivid-30v: #7fb135; // Green vivid color shade 30v
+$rds-green-vivid-40v: #719f2a; // Green vivid color shade 40v
+$rds-green-vivid-50v: #538200; // Green vivid color shade 50v
+$rds-green-vivid-60v: #466c04; // Green vivid color shade 60v
+$rds-green-vivid-70v: #2f4a0b; // Green vivid color shade 70v
+$rds-green-vivid-80v: #243413; // Green vivid color shade 80v
+$rds-green-warm-5: #f1f4d7; // Green warm color shade 5
+$rds-green-warm-10: #e7eab7; // Green warm color shade 10
+$rds-green-warm-20: #cbd17a; // Green warm color shade 20
+$rds-green-warm-30: #a6b557; // Green warm color shade 30
+$rds-green-warm-40: #8a984b; // Green warm color shade 40
+$rds-green-warm-50: #6f7a41; // Green warm color shade 50
+$rds-green-warm-60: #5a5f38; // Green warm color shade 60
+$rds-green-warm-70: #45472f; // Green warm color shade 70
+$rds-green-warm-80: #2d2f21; // Green warm color shade 80
+$rds-green-warm-90: #171712; // Green warm color shade 90
+$rds-green-warm-vivid-5v: #f5fbc1; // Green warm vivid color shade 5v
+$rds-green-warm-vivid-10v: #e7f434; // Green warm vivid color shade 10v
+$rds-green-warm-vivid-20v: #c5d30a; // Green warm vivid color shade 20v
+$rds-green-warm-vivid-30v: #a3b72c; // Green warm vivid color shade 30v
+$rds-green-warm-vivid-40v: #7e9c1d; // Green warm vivid color shade 40v
+$rds-green-warm-vivid-50v: #6a7d00; // Green warm vivid color shade 50v
+$rds-green-warm-vivid-60v: #5a6613; // Green warm vivid color shade 60v
+$rds-green-warm-vivid-70v: #4b4e10; // Green warm vivid color shade 70v
+$rds-green-warm-vivid-80v: #38380b; // Green warm vivid color shade 80v
+$rds-indigo-5: #efeff8; // Indigo color shade 5
+$rds-indigo-10: #e5e4fa; // Indigo color shade 10
+$rds-indigo-20: #c5c5f3; // Indigo color shade 20
+$rds-indigo-30: #a5a8eb; // Indigo color shade 30
+$rds-indigo-40: #8889db; // Indigo color shade 40
+$rds-indigo-50: #676cc8; // Indigo color shade 50
+$rds-indigo-60: #4d52af; // Indigo color shade 60
+$rds-indigo-70: #3d4076; // Indigo color shade 70
+$rds-indigo-80: #2b2c40; // Indigo color shade 80
+$rds-indigo-90: #16171f; // Indigo color shade 90
+$rds-indigo-cool-5: #eef0f9; // Indigo cool color shade 5
+$rds-indigo-cool-10: #e1e6f9; // Indigo cool color shade 10
+$rds-indigo-cool-20: #bbc8f5; // Indigo cool color shade 20
+$rds-indigo-cool-30: #96abee; // Indigo cool color shade 30
+$rds-indigo-cool-40: #6b8ee8; // Indigo cool color shade 40
+$rds-indigo-cool-50: #496fd8; // Indigo cool color shade 50
+$rds-indigo-cool-60: #3f57a6; // Indigo cool color shade 60
+$rds-indigo-cool-70: #374274; // Indigo cool color shade 70
+$rds-indigo-cool-80: #292d42; // Indigo cool color shade 80
+$rds-indigo-cool-90: #151622; // Indigo cool color shade 90
+$rds-indigo-cool-vivid-5v: #edf0ff; // Indigo cool vivid color shade 5v
+$rds-indigo-cool-vivid-10v: #dee5ff; // Indigo cool vivid color shade 10v
+$rds-indigo-cool-vivid-20v: #b8c8ff; // Indigo cool vivid color shade 20v
+$rds-indigo-cool-vivid-30v: #94adff; // Indigo cool vivid color shade 30v
+$rds-indigo-cool-vivid-40v: #628ef4; // Indigo cool vivid color shade 40v
+$rds-indigo-cool-vivid-50v: #4866ff; // Indigo cool vivid color shade 50v
+$rds-indigo-cool-vivid-60v: #3e4ded; // Indigo cool vivid color shade 60v
+$rds-indigo-cool-vivid-70v: #222fbf; // Indigo cool vivid color shade 70v
+$rds-indigo-cool-vivid-80v: #1b2b85; // Indigo cool vivid color shade 80v
+$rds-indigo-vivid-5v: #f0f0ff; // Indigo vivid color shade 5v
+$rds-indigo-vivid-10v: #e0e0ff; // Indigo vivid color shade 10v
+$rds-indigo-vivid-20v: #ccceff; // Indigo vivid color shade 20v
+$rds-indigo-vivid-30v: #a3a7fa; // Indigo vivid color shade 30v
+$rds-indigo-vivid-40v: #8289ff; // Indigo vivid color shade 40v
+$rds-indigo-vivid-50v: #656bd7; // Indigo vivid color shade 50v
+$rds-indigo-vivid-60v: #4a50c4; // Indigo vivid color shade 60v
+$rds-indigo-vivid-70v: #3333a3; // Indigo vivid color shade 70v
+$rds-indigo-vivid-80v: #212463; // Indigo vivid color shade 80v
+$rds-indigo-warm-5: #f1eff7; // Indigo warm color shade 5
+$rds-indigo-warm-10: #e7e3fa; // Indigo warm color shade 10
+$rds-indigo-warm-20: #cbc4f2; // Indigo warm color shade 20
+$rds-indigo-warm-30: #afa5e8; // Indigo warm color shade 30
+$rds-indigo-warm-40: #9287d8; // Indigo warm color shade 40
+$rds-indigo-warm-50: #7665d1; // Indigo warm color shade 50
+$rds-indigo-warm-60: #5e519e; // Indigo warm color shade 60
+$rds-indigo-warm-70: #453c7b; // Indigo warm color shade 70
+$rds-indigo-warm-80: #2e2c40; // Indigo warm color shade 80
+$rds-indigo-warm-90: #18161d; // Indigo warm color shade 90
+$rds-indigo-warm-vivid-5v: #f5f2ff; // Indigo warm vivid color shade 5v
+$rds-indigo-warm-vivid-10v: #e4deff; // Indigo warm vivid color shade 10v
+$rds-indigo-warm-vivid-20v: #cfc4fd; // Indigo warm vivid color shade 20v
+$rds-indigo-warm-vivid-30v: #b69fff; // Indigo warm vivid color shade 30v
+$rds-indigo-warm-vivid-40v: #967efb; // Indigo warm vivid color shade 40v
+$rds-indigo-warm-vivid-50v: #745fe9; // Indigo warm vivid color shade 50v
+$rds-indigo-warm-vivid-60v: #5942d2; // Indigo warm vivid color shade 60v
+$rds-indigo-warm-vivid-70v: #3d2c9d; // Indigo warm vivid color shade 70v
+$rds-indigo-warm-vivid-80v: #261f5b; // Indigo warm vivid color shade 80v
+$rds-magenta-5: #f9f0f2; // Magenta color shade 5
+$rds-magenta-10: #f6e1e8; // Magenta color shade 10
+$rds-magenta-20: #f0bbcc; // Magenta color shade 20
+$rds-magenta-30: #e895b3; // Magenta color shade 30
+$rds-magenta-40: #e0699f; // Magenta color shade 40
+$rds-magenta-50: #c84281; // Magenta color shade 50
+$rds-magenta-60: #8b4566; // Magenta color shade 60
+$rds-magenta-70: #66364b; // Magenta color shade 70
+$rds-magenta-80: #402731; // Magenta color shade 80
+$rds-magenta-90: #1b1617; // Magenta color shade 90
+$rds-magenta-vivid-5v: #fff2f5; // Magenta vivid color shade 5v
+$rds-magenta-vivid-10v: #ffddea; // Magenta vivid color shade 10v
+$rds-magenta-vivid-20v: #ffb4cf; // Magenta vivid color shade 20v
+$rds-magenta-vivid-30v: #ff87b2; // Magenta vivid color shade 30v
+$rds-magenta-vivid-40v: #fd4496; // Magenta vivid color shade 40v
+$rds-magenta-vivid-50v: #d72d79; // Magenta vivid color shade 50v
+$rds-magenta-vivid-60v: #ab2165; // Magenta vivid color shade 60v
+$rds-magenta-vivid-70v: #731f44; // Magenta vivid color shade 70v
+$rds-magenta-vivid-80v: #4f172e; // Magenta vivid color shade 80v
+$rds-mint-5: #dbf6ed; // Mint color shade 5
+$rds-mint-10: #c7efe2; // Mint color shade 10
+$rds-mint-20: #92d9bb; // Mint color shade 20
+$rds-mint-30: #5abf95; // Mint color shade 30
+$rds-mint-40: #34a37e; // Mint color shade 40
+$rds-mint-50: #2e8367; // Mint color shade 50
+$rds-mint-60: #286846; // Mint color shade 60
+$rds-mint-70: #204e34; // Mint color shade 70
+$rds-mint-80: #193324; // Mint color shade 80
+$rds-mint-90: #0d1a12; // Mint color shade 90
+$rds-mint-cool-5: #e0f7f6; // Mint cool color shade 5
+$rds-mint-cool-10: #c4eeeb; // Mint cool color shade 10
+$rds-mint-cool-20: #9bd4cf; // Mint cool color shade 20
+$rds-mint-cool-30: #6fbab3; // Mint cool color shade 30
+$rds-mint-cool-40: #4f9e99; // Mint cool color shade 40
+$rds-mint-cool-50: #40807e; // Mint cool color shade 50
+$rds-mint-cool-60: #376462; // Mint cool color shade 60
+$rds-mint-cool-70: #2a4b45; // Mint cool color shade 70
+$rds-mint-cool-80: #203131; // Mint cool color shade 80
+$rds-mint-cool-90: #111818; // Mint cool color shade 90
+$rds-mint-cool-vivid-5v: #d5fbf3; // Mint cool vivid color shade 5v
+$rds-mint-cool-vivid-10v: #7efbe1; // Mint cool vivid color shade 10v
+$rds-mint-cool-vivid-20v: #29e1cb; // Mint cool vivid color shade 20v
+$rds-mint-cool-vivid-30v: #1dc2ae; // Mint cool vivid color shade 30v
+$rds-mint-cool-vivid-40v: #00a398; // Mint cool vivid color shade 40v
+$rds-mint-cool-vivid-50v: #008480; // Mint cool vivid color shade 50v
+$rds-mint-cool-vivid-60v: #0f6460; // Mint cool vivid color shade 60v
+$rds-mint-cool-vivid-70v: #0b4b3f; // Mint cool vivid color shade 70v
+$rds-mint-cool-vivid-80v: #123131; // Mint cool vivid color shade 80v
+$rds-mint-vivid-5v: #c9fbeb; // Mint vivid color shade 5v
+$rds-mint-vivid-10v: #83fcd4; // Mint vivid color shade 10v
+$rds-mint-vivid-20v: #0ceda6; // Mint vivid color shade 20v
+$rds-mint-vivid-30v: #04c585; // Mint vivid color shade 30v
+$rds-mint-vivid-40v: #00a871; // Mint vivid color shade 40v
+$rds-mint-vivid-50v: #008659; // Mint vivid color shade 50v
+$rds-mint-vivid-60v: #146947; // Mint vivid color shade 60v
+$rds-mint-vivid-70v: #0c4e29; // Mint vivid color shade 70v
+$rds-mint-vivid-80v: #0d351e; // Mint vivid color shade 80v
+$rds-orange-5: #f6efe9; // Orange color shade 5
+$rds-orange-10: #f2e4d4; // Orange color shade 10
+$rds-orange-20: #f3bf90; // Orange color shade 20
+$rds-orange-30: #f09860; // Orange color shade 30
+$rds-orange-40: #dd7533; // Orange color shade 40
+$rds-orange-50: #a86437; // Orange color shade 50
+$rds-orange-60: #775540; // Orange color shade 60
+$rds-orange-70: #524236; // Orange color shade 70
+$rds-orange-80: #332d27; // Orange color shade 80
+$rds-orange-90: #1b1614; // Orange color shade 90
+$rds-orange-vivid-5v: #fef2e4; // Orange vivid color shade 5v
+$rds-orange-vivid-10v: #fce2c5; // Orange vivid color shade 10v
+$rds-orange-vivid-20v: #ffbc78; // Orange vivid color shade 20v
+$rds-orange-vivid-30v: #fa9441; // Orange vivid color shade 30v
+$rds-orange-vivid-40v: #e66f0e; // Orange vivid color shade 40v
+$rds-orange-vivid-50v: #c05600; // Orange vivid color shade 50v
+$rds-orange-vivid-60v: #8c471c; // Orange vivid color shade 60v
+$rds-orange-vivid-70v: #5f3617; // Orange vivid color shade 70v
+$rds-orange-vivid-80v: #352313; // Orange vivid color shade 80v
+$rds-orange-warm-5: #faeee5; // Orange warm color shade 5
+$rds-orange-warm-10: #fbe0d0; // Orange warm color shade 10
+$rds-orange-warm-20: #f7bca2; // Orange warm color shade 20
+$rds-orange-warm-30: #f3966d; // Orange warm color shade 30
+$rds-orange-warm-40: #e17141; // Orange warm color shade 40
+$rds-orange-warm-50: #bd5727; // Orange warm color shade 50
+$rds-orange-warm-60: #914734; // Orange warm color shade 60
+$rds-orange-warm-70: #633a32; // Orange warm color shade 70
+$rds-orange-warm-80: #3d2925; // Orange warm color shade 80
+$rds-orange-warm-90: #1c1615; // Orange warm color shade 90
+$rds-orange-warm-vivid-5v: #fff3ea; // Orange warm vivid color shade 5v
+$rds-orange-warm-vivid-10v: #ffe2d1; // Orange warm vivid color shade 10v
+$rds-orange-warm-vivid-20v: #fbbaa7; // Orange warm vivid color shade 20v
+$rds-orange-warm-vivid-30v: #fc906d; // Orange warm vivid color shade 30v
+$rds-orange-warm-vivid-40v: #ff580a; // Orange warm vivid color shade 40v
+$rds-orange-warm-vivid-50v: #cf4900; // Orange warm vivid color shade 50v
+$rds-orange-warm-vivid-60v: #a72f10; // Orange warm vivid color shade 60v
+$rds-orange-warm-vivid-70v: #782312; // Orange warm vivid color shade 70v
+$rds-orange-warm-vivid-80v: #3d231d; // Orange warm vivid color shade 80v
+$rds-red-5: #f9eeee; // Red color shade 5
+$rds-red-10: #f8e1de; // Red color shade 10
+$rds-red-20: #f7bbb1; // Red color shade 20
+$rds-red-30: #f2938c; // Red color shade 30
+$rds-red-40: #e9695f; // Red color shade 40
+$rds-red-50: #d83933; // Red color shade 50
+$rds-red-60: #a23737; // Red color shade 60
+$rds-red-70: #6f3331; // Red color shade 70
+$rds-red-80: #3e2927; // Red color shade 80
+$rds-red-90: #1b1616; // Red color shade 90
+$rds-red-cool-5: #f8eff1; // Red cool color shade 5
+$rds-red-cool-10: #f3e1e4; // Red cool color shade 10
+$rds-red-cool-20: #ecbec6; // Red cool color shade 20
+$rds-red-cool-30: #e09aa6; // Red cool color shade 30
+$rds-red-cool-40: #e16b80; // Red cool color shade 40
+$rds-red-cool-50: #cd425b; // Red cool color shade 50
+$rds-red-cool-60: #9e394b; // Red cool color shade 60
+$rds-red-cool-70: #68363f; // Red cool color shade 70
+$rds-red-cool-80: #40282c; // Red cool color shade 80
+$rds-red-cool-90: #1e1517; // Red cool color shade 90
+$rds-red-cool-vivid-5v: #fff0f3; // Red cool vivid color shade 5v
+$rds-red-cool-vivid-10v: #f8dee1; // Red cool vivid color shade 10v
+$rds-red-cool-vivid-20v: #f8b9c5; // Red cool vivid color shade 20v
+$rds-red-cool-vivid-30v: #fd8ba0; // Red cool vivid color shade 30v
+$rds-red-cool-vivid-40v: #f45d79; // Red cool vivid color shade 40v
+$rds-red-cool-vivid-50v: #e41b3c; // Red cool vivid color shade 50v
+$rds-red-cool-vivid-60v: #b41d39; // Red cool vivid color shade 60v
+$rds-red-cool-vivid-70v: #832133; // Red cool vivid color shade 70v
+$rds-red-cool-vivid-80v: #4f1c24; // Red cool vivid color shade 80v
+$rds-red-vivid-5v: #fff3f2; // Red vivid color shade 5v
+$rds-red-vivid-10v: #fde0db; // Red vivid color shade 10v
+$rds-red-vivid-20v: #fdb8ae; // Red vivid color shade 20v
+$rds-red-vivid-30v: #ff8d7b; // Red vivid color shade 30v
+$rds-red-vivid-40v: #fb5a47; // Red vivid color shade 40v
+$rds-red-vivid-50v: #e52207; // Red vivid color shade 50v
+$rds-red-vivid-60v: #b50909; // Red vivid color shade 60v
+$rds-red-vivid-70v: #8b0a03; // Red vivid color shade 70v
+$rds-red-vivid-80v: #5c1111; // Red vivid color shade 80v
+$rds-red-warm-5: #f6efea; // Red warm color shade 5
+$rds-red-warm-10: #f4e3db; // Red warm color shade 10
+$rds-red-warm-20: #ecc0a7; // Red warm color shade 20
+$rds-red-warm-30: #dca081; // Red warm color shade 30
+$rds-red-warm-40: #d27a56; // Red warm color shade 40
+$rds-red-warm-50: #c3512c; // Red warm color shade 50
+$rds-red-warm-60: #805039; // Red warm color shade 60
+$rds-red-warm-70: #524236; // Red warm color shade 70
+$rds-red-warm-80: #332d29; // Red warm color shade 80
+$rds-red-warm-90: #1f1c18; // Red warm color shade 90
+$rds-red-warm-vivid-5v: #fff5ee; // Red warm vivid color shade 5v
+$rds-red-warm-vivid-10v: #fce1d4; // Red warm vivid color shade 10v
+$rds-red-warm-vivid-20v: #f6bd9c; // Red warm vivid color shade 20v
+$rds-red-warm-vivid-30v: #f39268; // Red warm vivid color shade 30v
+$rds-red-warm-vivid-40v: #ef5e25; // Red warm vivid color shade 40v
+$rds-red-warm-vivid-50v: #d54309; // Red warm vivid color shade 50v
+$rds-red-warm-vivid-60v: #9c3d10; // Red warm vivid color shade 60v
+$rds-red-warm-vivid-70v: #63340f; // Red warm vivid color shade 70v
+$rds-red-warm-vivid-80v: #3e2a1e; // Red warm vivid color shade 80v
+$rds-violet-5: #f4f1f9; // Violet color shade 5
+$rds-violet-10: #ebe3f9; // Violet color shade 10
+$rds-violet-20: #d0c3e9; // Violet color shade 20
+$rds-violet-30: #b8a2e3; // Violet color shade 30
+$rds-violet-40: #9d84d2; // Violet color shade 40
+$rds-violet-50: #8168b3; // Violet color shade 50
+$rds-violet-60: #665190; // Violet color shade 60
+$rds-violet-70: #4c3d69; // Violet color shade 70
+$rds-violet-80: #312b3f; // Violet color shade 80
+$rds-violet-90: #18161d; // Violet color shade 90
+$rds-violet-vivid-5v: #f7f2ff; // Violet vivid color shade 5v
+$rds-violet-vivid-10v: #ede3ff; // Violet vivid color shade 10v
+$rds-violet-vivid-20v: #d5bfff; // Violet vivid color shade 20v
+$rds-violet-vivid-30v: #c39deb; // Violet vivid color shade 30v
+$rds-violet-vivid-40v: #b07ce0; // Violet vivid color shade 40v
+$rds-violet-vivid-50v: #ac6ddd; // Violet vivid color shade 50v
+$rds-violet-vivid-60v: #8b47b9; // Violet vivid color shade 60v
+$rds-violet-vivid-70v: #6b2f8f; // Violet vivid color shade 70v
+$rds-violet-vivid-80v: #4b215f; // Violet vivid color shade 80v
+$rds-violet-warm-5: #f6eff6; // Violet warm color shade 5
+$rds-violet-warm-10: #f0e3f3; // Violet warm color shade 10
+$rds-violet-warm-20: #e0bee3; // Violet warm color shade 20
+$rds-violet-warm-30: #cf9cd4; // Violet warm color shade 30
+$rds-violet-warm-40: #bd7ac2; // Violet warm color shade 40
+$rds-violet-warm-50: #a559a8; // Violet warm color shade 50
+$rds-violet-warm-60: #87458a; // Violet warm color shade 60
+$rds-violet-warm-70: #5f3761; // Violet warm color shade 70
+$rds-violet-warm-80: #3c2b3b; // Violet warm color shade 80
+$rds-violet-warm-90: #1b161b; // Violet warm color shade 90
+$rds-violet-warm-vivid-5v: #fbf1ff; // Violet warm vivid color shade 5v
+$rds-violet-warm-vivid-10v: #f7deff; // Violet warm vivid color shade 10v
+$rds-violet-warm-vivid-20v: #ebb1ff; // Violet warm vivid color shade 20v
+$rds-violet-warm-vivid-30v: #dd93ff; // Violet warm vivid color shade 30v
+$rds-violet-warm-vivid-40v: #c567f8; // Violet warm vivid color shade 40v
+$rds-violet-warm-vivid-50v: #ad3ee0; // Violet warm vivid color shade 50v
+$rds-violet-warm-vivid-60v: #891abc; // Violet warm vivid color shade 60v
+$rds-violet-warm-vivid-70v: #671299; // Violet warm vivid color shade 70v
+$rds-violet-warm-vivid-80v: #3f1a62; // Violet warm vivid color shade 80v
+$rds-yellow-5: #f9f7d9; // Yellow color shade 5
+$rds-yellow-10: #f2eabf; // Yellow color shade 10
+$rds-yellow-20: #e7d291; // Yellow color shade 20
+$rds-yellow-30: #d8b973; // Yellow color shade 30
+$rds-yellow-40: #c6a351; // Yellow color shade 40
+$rds-yellow-50: #a6833e; // Yellow color shade 50
+$rds-yellow-60: #856737; // Yellow color shade 60
+$rds-yellow-70: #614b2d; // Yellow color shade 70
+$rds-yellow-80: #3e3123; // Yellow color shade 80
+$rds-yellow-90: #1e1913; // Yellow color shade 90
+$rds-yellow-vivid-5v: #fffbd1; // Yellow vivid color shade 5v
+$rds-yellow-vivid-10v: #fff4a8; // Yellow vivid color shade 10v
+$rds-yellow-vivid-20v: #ffea5b; // Yellow vivid color shade 20v
+$rds-yellow-vivid-30v: #ffdd31; // Yellow vivid color shade 30v
+$rds-yellow-vivid-40v: #f8c107; // Yellow vivid color shade 40v
+$rds-yellow-vivid-50v: #dea703; // Yellow vivid color shade 50v
+$rds-yellow-vivid-60v: #b7860c; // Yellow vivid color shade 60v
+$rds-yellow-vivid-70v: #8b5e15; // Yellow vivid color shade 70v
+$rds-yellow-vivid-80v: #5a3c10; // Yellow vivid color shade 80v
+$rds-alpha-black-0: rgba(0, 0, 0, 0); // Alpha black color shade 0
+$rds-alpha-black-1: rgba(0, 0, 0, 0.01); // Alpha black color shade 1
+$rds-alpha-black-2: rgba(0, 0, 0, 0.02); // Alpha black color shade 2
+$rds-alpha-black-3: rgba(0, 0, 0, 0.03); // Alpha black color shade 3
+$rds-alpha-black-4: rgba(0, 0, 0, 0.04); // Alpha black color shade 4
+$rds-alpha-black-5: rgba(0, 0, 0, 0.05); // Alpha black color shade 5
+$rds-alpha-black-10: rgba(0, 0, 0, 0.1); // Alpha black color shade 10
+$rds-alpha-black-20: rgba(0, 0, 0, 0.2); // Alpha black color shade 20
+$rds-alpha-black-30: rgba(0, 0, 0, 0.3); // Alpha black color shade 30
+$rds-alpha-black-40: rgba(0, 0, 0, 0.4); // Alpha black color shade 40
+$rds-alpha-black-50: rgba(0, 0, 0, 0.5); // Alpha black color shade 50
+$rds-alpha-black-60: rgba(0, 0, 0, 0.6); // Alpha black color shade 60
+$rds-alpha-black-70: rgba(0, 0, 0, 0.7); // Alpha black color shade 70
+$rds-alpha-black-80: rgba(0, 0, 0, 0.8); // Alpha black color shade 80
+$rds-alpha-black-90: rgba(0, 0, 0, 0.9); // Alpha black color shade 90
+$rds-alpha-black-100: #000000; // Alpha black color shade 100
+$rds-alpha-white-0: rgba(255, 255, 255, 0); // Alpha white color shade 0
+$rds-alpha-white-1: rgba(255, 255, 255, 0.01); // Alpha white color shade 1
+$rds-alpha-white-2: rgba(255, 255, 255, 0.02); // Alpha white color shade 2
+$rds-alpha-white-3: rgba(255, 255, 255, 0.03); // Alpha white color shade 3
+$rds-alpha-white-4: rgba(255, 255, 255, 0.04); // Alpha white color shade 4
+$rds-alpha-white-5: rgba(255, 255, 255, 0.05); // Alpha white color shade 5
+$rds-alpha-white-10: rgba(255, 255, 255, 0.1); // Alpha white color shade 10
+$rds-alpha-white-20: rgba(255, 255, 255, 0.2); // Alpha white color shade 20
+$rds-alpha-white-30: rgba(255, 255, 255, 0.3); // Alpha white color shade 30
+$rds-alpha-white-40: rgba(255, 255, 255, 0.4); // Alpha white color shade 40
+$rds-alpha-white-50: rgba(255, 255, 255, 0.5); // Alpha white color shade 50
+$rds-alpha-white-60: rgba(255, 255, 255, 0.6); // Alpha white color shade 60
+$rds-alpha-white-70: rgba(255, 255, 255, 0.7); // Alpha white color shade 70
+$rds-alpha-white-80: rgba(255, 255, 255, 0.8); // Alpha white color shade 80
+$rds-alpha-white-90: rgba(255, 255, 255, 0.9); // Alpha white color shade 90
+$rds-alpha-white-100: #ffffff; // Alpha white color shade 100
+$rds-tw-amber-50: #fffbeb; // Amber color shade 50
+$rds-tw-amber-100: #fef3c7; // Amber color shade 100
+$rds-tw-amber-200: #fde68a; // Amber color shade 200
+$rds-tw-amber-300: #fcd34d; // Amber color shade 300
+$rds-tw-amber-400: #fbbf24; // Amber color shade 400
+$rds-tw-amber-500: #f59e0b; // Amber color shade 500
+$rds-tw-amber-600: #d97706; // Amber color shade 600
+$rds-tw-amber-700: #b45309; // Amber color shade 700
+$rds-tw-amber-800: #92400e; // Amber color shade 800
+$rds-tw-amber-900: #78350f; // Amber color shade 900
+$rds-tw-amber-950: #451a03; // Amber color shade 950
+$rds-tw-blue-50: #eff6ff; // Blue color shade 50
+$rds-tw-blue-100: #dbeafe; // Blue color shade 100
+$rds-tw-blue-200: #bfdbfe; // Blue color shade 200
+$rds-tw-blue-300: #93c5fd; // Blue color shade 300
+$rds-tw-blue-400: #60a5fa; // Blue color shade 400
+$rds-tw-blue-500: #3b82f6; // Blue color shade 500
+$rds-tw-blue-600: #2563eb; // Blue color shade 600
+$rds-tw-blue-700: #1d4ed8; // Blue color shade 700
+$rds-tw-blue-800: #1e40af; // Blue color shade 800
+$rds-tw-blue-900: #1e3a8a; // Blue color shade 900
+$rds-tw-blue-950: #172554; // Blue color shade 950
+$rds-tw-cyan-50: #ecfeff; // Cyan color shade 50
+$rds-tw-cyan-100: #cffafe; // Cyan color shade 100
+$rds-tw-cyan-200: #a5f3fc; // Cyan color shade 200
+$rds-tw-cyan-300: #67e8f9; // Cyan color shade 300
+$rds-tw-cyan-400: #22d3ee; // Cyan color shade 400
+$rds-tw-cyan-500: #06b6d4; // Cyan color shade 500
+$rds-tw-cyan-600: #0891b2; // Cyan color shade 600
+$rds-tw-cyan-700: #0e7490; // Cyan color shade 700
+$rds-tw-cyan-800: #155e75; // Cyan color shade 800
+$rds-tw-cyan-900: #164e63; // Cyan color shade 900
+$rds-tw-cyan-950: #083344; // Cyan color shade 950
+$rds-tw-emerald-50: #ecfdf5; // Emerald color shade 50
+$rds-tw-emerald-100: #d1fae5; // Emerald color shade 100
+$rds-tw-emerald-200: #a7f3d0; // Emerald color shade 200
+$rds-tw-emerald-300: #6ee7b7; // Emerald color shade 300
+$rds-tw-emerald-400: #34d399; // Emerald color shade 400
+$rds-tw-emerald-500: #10b981; // Emerald color shade 500
+$rds-tw-emerald-600: #059669; // Emerald color shade 600
+$rds-tw-emerald-700: #047857; // Emerald color shade 700
+$rds-tw-emerald-800: #065f46; // Emerald color shade 800
+$rds-tw-emerald-900: #064e3b; // Emerald color shade 900
+$rds-tw-emerald-950: #022c22; // Emerald color shade 950
+$rds-tw-fuchsia-50: #fdf4ff; // Fuchsia color shade 50
+$rds-tw-fuchsia-100: #fae8ff; // Fuchsia color shade 100
+$rds-tw-fuchsia-200: #f5d0fe; // Fuchsia color shade 200
+$rds-tw-fuchsia-300: #f0abfc; // Fuchsia color shade 300
+$rds-tw-fuchsia-400: #e879f9; // Fuchsia color shade 400
+$rds-tw-fuchsia-500: #d946ef; // Fuchsia color shade 500
+$rds-tw-fuchsia-600: #c026d3; // Fuchsia color shade 600
+$rds-tw-fuchsia-700: #a21caf; // Fuchsia color shade 700
+$rds-tw-fuchsia-800: #86198f; // Fuchsia color shade 800
+$rds-tw-fuchsia-900: #701a75; // Fuchsia color shade 900
+$rds-tw-fuchsia-950: #4a044e; // Fuchsia color shade 950
+$rds-tw-gray-50: #f9fafb; // Gray color shade 50
+$rds-tw-gray-100: #f3f4f6; // Gray color shade 100
+$rds-tw-gray-200: #e5e7eb; // Gray color shade 200
+$rds-tw-gray-300: #d1d5db; // Gray color shade 300
+$rds-tw-gray-400: #9ca3af; // Gray color shade 400
+$rds-tw-gray-500: #6b7280; // Gray color shade 500
+$rds-tw-gray-600: #4b5563; // Gray color shade 600
+$rds-tw-gray-700: #374151; // Gray color shade 700
+$rds-tw-gray-800: #1f2a44; // Gray color shade 800
+$rds-tw-gray-900: #111827; // Gray color shade 900
+$rds-tw-gray-950: #030712; // Gray color shade 950
+$rds-tw-green-50: #f0fdf4; // Green color shade 50
+$rds-tw-green-100: #dcfce7; // Green color shade 100
+$rds-tw-green-200: #bbf7d0; // Green color shade 200
+$rds-tw-green-300: #86efac; // Green color shade 300
+$rds-tw-green-400: #4ade80; // Green color shade 400
+$rds-tw-green-500: #22c55e; // Green color shade 500
+$rds-tw-green-600: #16a34a; // Green color shade 600
+$rds-tw-green-700: #15803d; // Green color shade 700
+$rds-tw-green-800: #166534; // Green color shade 800
+$rds-tw-green-900: #14532d; // Green color shade 900
+$rds-tw-green-950: #052e16; // Green color shade 950
+$rds-tw-indigo-50: #eef2ff; // Indigo color shade 50
+$rds-tw-indigo-100: #e0e7ff; // Indigo color shade 100
+$rds-tw-indigo-200: #c7d2fe; // Indigo color shade 200
+$rds-tw-indigo-300: #a5b4fc; // Indigo color shade 300
+$rds-tw-indigo-400: #818cf8; // Indigo color shade 400
+$rds-tw-indigo-500: #6366f1; // Indigo color shade 500
+$rds-tw-indigo-600: #4f46e5; // Indigo color shade 600
+$rds-tw-indigo-700: #4338ca; // Indigo color shade 700
+$rds-tw-indigo-800: #3730a3; // Indigo color shade 800
+$rds-tw-indigo-900: #312e81; // Indigo color shade 900
+$rds-tw-indigo-950: #1e1b4b; // Indigo color shade 950
+$rds-tw-lime-50: #f7fee7; // Lime color shade 50
+$rds-tw-lime-100: #ecfccb; // Lime color shade 100
+$rds-tw-lime-200: #d9f99d; // Lime color shade 200
+$rds-tw-lime-300: #bef264; // Lime color shade 300
+$rds-tw-lime-400: #a3e635; // Lime color shade 400
+$rds-tw-lime-500: #84cc16; // Lime color shade 500
+$rds-tw-lime-600: #65a30d; // Lime color shade 600
+$rds-tw-lime-700: #4d7c0f; // Lime color shade 700
+$rds-tw-lime-800: #3f6212; // Lime color shade 800
+$rds-tw-lime-900: #365314; // Lime color shade 900
+$rds-tw-lime-950: #1a2e05; // Lime color shade 950
+$rds-tw-neutral-50: #fafafa; // Neutral color shade 50
+$rds-tw-neutral-100: #f5f5f5; // Neutral color shade 100
+$rds-tw-neutral-200: #e5e5e5; // Neutral color shade 200
+$rds-tw-neutral-300: #d4d4d4; // Neutral color shade 300
+$rds-tw-neutral-400: #a3a3a3; // Neutral color shade 400
+$rds-tw-neutral-500: #737373; // Neutral color shade 500
+$rds-tw-neutral-600: #525252; // Neutral color shade 600
+$rds-tw-neutral-700: #404040; // Neutral color shade 700
+$rds-tw-neutral-800: #262626; // Neutral color shade 800
+$rds-tw-neutral-900: #171717; // Neutral color shade 900
+$rds-tw-neutral-950: #0a0a0a; // Neutral color shade 950
+$rds-tw-orange-50: #fff7ed; // Orange color shade 50
+$rds-tw-orange-100: #ffedd5; // Orange color shade 100
+$rds-tw-orange-200: #fed7aa; // Orange color shade 200
+$rds-tw-orange-300: #fdba74; // Orange color shade 300
+$rds-tw-orange-400: #fb923c; // Orange color shade 400
+$rds-tw-orange-500: #f97316; // Orange color shade 500
+$rds-tw-orange-600: #ea580c; // Orange color shade 600
+$rds-tw-orange-700: #c2410c; // Orange color shade 700
+$rds-tw-orange-800: #9a3412; // Orange color shade 800
+$rds-tw-orange-900: #7c2d12; // Orange color shade 900
+$rds-tw-orange-950: #431407; // Orange color shade 950
+$rds-tw-pink-50: #fdf2f8; // Pink color shade 50
+$rds-tw-pink-100: #fce7f3; // Pink color shade 100
+$rds-tw-pink-200: #fbcfe8; // Pink color shade 200
+$rds-tw-pink-300: #f9a8d4; // Pink color shade 300
+$rds-tw-pink-400: #f472b6; // Pink color shade 400
+$rds-tw-pink-500: #ec4899; // Pink color shade 500
+$rds-tw-pink-600: #db2777; // Pink color shade 600
+$rds-tw-pink-700: #be185d; // Pink color shade 700
+$rds-tw-pink-800: #9d174d; // Pink color shade 800
+$rds-tw-pink-900: #831843; // Pink color shade 900
+$rds-tw-pink-950: #500724; // Pink color shade 950
+$rds-tw-purple-50: #faf5ff; // Purple color shade 50
+$rds-tw-purple-100: #f3e8ff; // Purple color shade 100
+$rds-tw-purple-200: #e9d5ff; // Purple color shade 200
+$rds-tw-purple-300: #d8b4fe; // Purple color shade 300
+$rds-tw-purple-400: #c084fc; // Purple color shade 400
+$rds-tw-purple-500: #a855f7; // Purple color shade 500
+$rds-tw-purple-600: #9333ea; // Purple color shade 600
+$rds-tw-purple-700: #7e22ce; // Purple color shade 700
+$rds-tw-purple-800: #6b21a8; // Purple color shade 800
+$rds-tw-purple-900: #581c87; // Purple color shade 900
+$rds-tw-purple-950: #3b0764; // Purple color shade 950
+$rds-tw-red-50: #fef2f2; // Red color shade 50
+$rds-tw-red-100: #fee2e2; // Red color shade 100
+$rds-tw-red-200: #fecaca; // Red color shade 200
+$rds-tw-red-300: #fca5a5; // Red color shade 300
+$rds-tw-red-400: #f87171; // Red color shade 400
+$rds-tw-red-500: #ef4444; // Red color shade 500
+$rds-tw-red-600: #dc2626; // Red color shade 600
+$rds-tw-red-700: #b91c1c; // Red color shade 700
+$rds-tw-red-800: #991b1b; // Red color shade 800
+$rds-tw-red-900: #7f1d1d; // Red color shade 900
+$rds-tw-red-950: #450a0a; // Red color shade 950
+$rds-tw-rose-50: #fff1f2; // Rose color shade 50
+$rds-tw-rose-100: #ffe4e6; // Rose color shade 100
+$rds-tw-rose-200: #fecdd3; // Rose color shade 200
+$rds-tw-rose-300: #fda4af; // Rose color shade 300
+$rds-tw-rose-400: #fb7185; // Rose color shade 400
+$rds-tw-rose-500: #f43f5e; // Rose color shade 500
+$rds-tw-rose-600: #e11d48; // Rose color shade 600
+$rds-tw-rose-700: #be123c; // Rose color shade 700
+$rds-tw-rose-800: #9f1239; // Rose color shade 800
+$rds-tw-rose-900: #881337; // Rose color shade 900
+$rds-tw-rose-950: #4c0519; // Rose color shade 950
+$rds-tw-sky-50: #f0f9ff; // Sky color shade 50
+$rds-tw-sky-100: #e0f2fe; // Sky color shade 100
+$rds-tw-sky-200: #bae6fd; // Sky color shade 200
+$rds-tw-sky-300: #7dd3fc; // Sky color shade 300
+$rds-tw-sky-400: #38bdf8; // Sky color shade 400
+$rds-tw-sky-500: #0ea5e9; // Sky color shade 500
+$rds-tw-sky-600: #0284c7; // Sky color shade 600
+$rds-tw-sky-700: #0369a1; // Sky color shade 700
+$rds-tw-sky-800: #075985; // Sky color shade 800
+$rds-tw-sky-900: #0c4a6e; // Sky color shade 900
+$rds-tw-sky-950: #082f49; // Sky color shade 950
+$rds-tw-slate-50: #f8fafc; // Slate color shade 50
+$rds-tw-slate-100: #f1f5f9; // Slate color shade 100
+$rds-tw-slate-200: #e2e8f0; // Slate color shade 200
+$rds-tw-slate-300: #cbd5e1; // Slate color shade 300
+$rds-tw-slate-400: #94a3b8; // Slate color shade 400
+$rds-tw-slate-500: #64748b; // Slate color shade 500
+$rds-tw-slate-600: #475569; // Slate color shade 600
+$rds-tw-slate-700: #334155; // Slate color shade 700
+$rds-tw-slate-800: #1e293b; // Slate color shade 800
+$rds-tw-slate-900: #0f172a; // Slate color shade 900
+$rds-tw-slate-950: #020617; // Slate color shade 950
+$rds-tw-stone-50: #fafaf9; // Stone color shade 50
+$rds-tw-stone-100: #f5f5f4; // Stone color shade 100
+$rds-tw-stone-200: #e7e5e4; // Stone color shade 200
+$rds-tw-stone-300: #d6d3d1; // Stone color shade 300
+$rds-tw-stone-400: #a8a29e; // Stone color shade 400
+$rds-tw-stone-500: #78716c; // Stone color shade 500
+$rds-tw-stone-600: #57534e; // Stone color shade 600
+$rds-tw-stone-700: #44403c; // Stone color shade 700
+$rds-tw-stone-800: #292524; // Stone color shade 800
+$rds-tw-stone-900: #1c1917; // Stone color shade 900
+$rds-tw-stone-950: #0c0a09; // Stone color shade 950
+$rds-tw-teal-50: #f0fdfa; // Teal color shade 50
+$rds-tw-teal-100: #ccfbf1; // Teal color shade 100
+$rds-tw-teal-200: #99f6e4; // Teal color shade 200
+$rds-tw-teal-300: #5eead4; // Teal color shade 300
+$rds-tw-teal-400: #2dd4bf; // Teal color shade 400
+$rds-tw-teal-500: #14b8a6; // Teal color shade 500
+$rds-tw-teal-600: #0d9488; // Teal color shade 600
+$rds-tw-teal-700: #0f766e; // Teal color shade 700
+$rds-tw-teal-800: #115e59; // Teal color shade 800
+$rds-tw-teal-900: #134e4a; // Teal color shade 900
+$rds-tw-teal-950: #042f2e; // Teal color shade 950
+$rds-tw-violet-50: #f5f3ff; // Violet color shade 50
+$rds-tw-violet-100: #ede9fe; // Violet color shade 100
+$rds-tw-violet-200: #ddd6fe; // Violet color shade 200
+$rds-tw-violet-300: #c4b5fd; // Violet color shade 300
+$rds-tw-violet-400: #a78bfa; // Violet color shade 400
+$rds-tw-violet-500: #8b5cf6; // Violet color shade 500
+$rds-tw-violet-600: #7c3aed; // Violet color shade 600
+$rds-tw-violet-700: #6d28d9; // Violet color shade 700
+$rds-tw-violet-800: #5b21b6; // Violet color shade 800
+$rds-tw-violet-900: #4c1d95; // Violet color shade 900
+$rds-tw-violet-950: #2e1065; // Violet color shade 950
+$rds-tw-yellow-50: #fefce8; // Yellow color shade 50
+$rds-tw-yellow-100: #fef9c3; // Yellow color shade 100
+$rds-tw-yellow-200: #fef08a; // Yellow color shade 200
+$rds-tw-yellow-300: #fde047; // Yellow color shade 300
+$rds-tw-yellow-400: #facc15; // Yellow color shade 400
+$rds-tw-yellow-500: #eab308; // Yellow color shade 500
+$rds-tw-yellow-600: #ca8a04; // Yellow color shade 600
+$rds-tw-yellow-700: #a16207; // Yellow color shade 700
+$rds-tw-yellow-800: #854d0e; // Yellow color shade 800
+$rds-tw-yellow-900: #713f12; // Yellow color shade 900
+$rds-tw-yellow-950: #422006; // Yellow color shade 950
+$rds-tw-zinc-50: #fafafa; // Zinc color shade 50
+$rds-tw-zinc-100: #f4f4f5; // Zinc color shade 100
+$rds-tw-zinc-200: #e4e4e7; // Zinc color shade 200
+$rds-tw-zinc-300: #d4d4d8; // Zinc color shade 300
+$rds-tw-zinc-400: #a1a1aa; // Zinc color shade 400
+$rds-tw-zinc-500: #71717a; // Zinc color shade 500
+$rds-tw-zinc-600: #52525b; // Zinc color shade 600
+$rds-tw-zinc-700: #3f3f46; // Zinc color shade 700
+$rds-tw-zinc-800: #27272a; // Zinc color shade 800
+$rds-tw-zinc-900: #18181b; // Zinc color shade 900
+$rds-tw-zinc-950: #09090b; // Zinc color shade 950
+$rds-font-family-sans-1: Outfit; // Sans-1 font family
+$rds-font-family-sans-2: Inter; // Sans-2 font family
+$rds-font-family-serif: Merriweather; // Serif font family
+$rds-font-family-mono: 'Roboto Mono'; // Monospace font family
+$rds-font-role-body: Inter; // Body text font role
+$rds-font-role-heading: Outfit; // Heading text font role
+$rds-font-role-label: Inter; // Label text font role
+$rds-font-weight-light: Light; // Light font weight
+$rds-font-weight-regular: Regular; // Regular font weight
+$rds-font-weight-medium: Medium; // Medium font weight
+$rds-font-weight-semibold: Semibold; // Semibold font weight
+$rds-font-weight-bold: Bold; // Bold font weight
+$rds-font-weight-extrabold: ExtraBold; // Extrabold font weight
+$rds-font-style-italic: Italic; // Italic font style
+$rds-spacing-0: 0px; // Spacing size 0
+$rds-spacing-25: 2px; // Spacing size 25
+$rds-spacing-50: 4px; // Spacing size 50
+$rds-spacing-75: 6px; // Spacing size 75
+$rds-spacing-100: 8px; // Spacing size 100
+$rds-spacing-125: 10px; // Spacing size 125
+$rds-spacing-150: 12px; // Spacing size 150
+$rds-spacing-200: 16px; // Spacing size 200
+$rds-spacing-250: 20px; // Spacing size 250
+$rds-spacing-300: 24px; // Spacing size 300
+$rds-spacing-400: 32px; // Spacing size 400
+$rds-spacing-500: 40px; // Spacing size 500
+$rds-spacing-600: 48px; // Spacing size 600
+$rds-spacing-700: 56px; // Spacing size 700
+$rds-spacing-800: 64px; // Spacing size 800
+$rds-spacing-900: 72px; // Spacing size 900
+$rds-spacing-1000: 96px; // Spacing size 1000
+$rds-spacing-1100: 128px; // Spacing size 1100
+$rds-spacing-1200: 192px; // Spacing size 1200
+$rds-spacing-negative-25: -2px; // Negative spacing size 25
+$rds-spacing-negative-50: -4px; // Negative spacing size 50
+$rds-spacing-negative-75: -6px; // Negative spacing size 75
+$rds-spacing-negative-100: -8px; // Negative spacing size 100
+$rds-spacing-negative-125: -10px; // Negative spacing size 125
+$rds-spacing-negative-150: -12px; // Negative spacing size 150
+$rds-spacing-negative-200: -16px; // Negative spacing size 200
+$rds-spacing-negative-250: -20px; // Negative spacing size 250
+$rds-spacing-negative-300: -24px; // Negative spacing size 300
+$rds-spacing-negative-400: -32px; // Negative spacing size 400
+$rds-spacing-negative-500: -40px; // Negative spacing size 500
+$rds-spacing-negative-600: -48px; // Negative spacing size 600
+$rds-spacing-negative-700: -56px; // Negative spacing size 700
+$rds-spacing-negative-800: -64px; // Negative spacing size 800
+$rds-spacing-negative-900: -72px; // Negative spacing size 900
+$rds-spacing-negative-1000: -96px; // Negative spacing size 1000
+$rds-spacing-negative-1100: -128px; // Negative spacing size 1100
+$rds-spacing-negative-1200: -192px; // Negative spacing size 1200
+$rds-border-radius-none: 0px; // Border radius size none
+$rds-border-radius-2xs: 2px; // Border radius size 2xs
+$rds-border-radius-xs: 4px; // Border radius size xs
+$rds-border-radius-sm: 6px; // Border radius size sm
+$rds-border-radius-md: 8px; // Border radius size md
+$rds-border-radius-lg: 12px; // Border radius size lg
+$rds-border-radius-xl: 16px; // Border radius size xl
+$rds-border-radius-2xl: 20px; // Border radius size 2xl
+$rds-border-radius-3xl: 30px; // Border radius size 3xl
+$rds-border-radius-circle: 9999px; // Border radius size circle
+$rds-border-width-0: 0px; // Border width size 0
+$rds-border-width-sm: 1px; // Border width size sm
+$rds-border-width-md: 2px; // Border width size md
+$rds-border-width-lg: 4px; // Border width size lg
+$rds-border-width-xl: 8px; // Border width size xl
+$rds-icon-size-xs: 16px; // Icon size xs
+$rds-icon-size-sm: 20px; // Icon size sm
+$rds-icon-size-md: 24px; // Icon size md
+$rds-icon-size-lg: 32px; // Icon size lg
+$rds-icon-size-xl: 48px; // Icon size xl
+$rds-icon-size-2xl: 64px; // Icon size 2xl
+$rds-duration-1x: 0.10s; // Motion duration 1x
+$rds-duration-2x: 0.20s; // Motion duration 2x
+$rds-duration-3x: 0.30s; // Motion duration 3x
+$rds-duration-4x: 0.40s; // Motion duration 4x
+$rds-duration-5x: 0.50s; // Motion duration 5x
+$rds-duration-6x: 0.60s; // Motion duration 6x
+$rds-timing-function-ease-out: cubic-bezier(0.32, 0.94, 0.60, 1); // Motion timing function ease-out
+$rds-timing-function-ease: cubic-bezier(0.15, 0, 0.15, 0); // Motion timing function ease
+$rds-timing-function-linear: cubic-bezier(0, 0, 1, 1); // Motion timing function linear
+$rds-z-index-default: 0; // Default z-index for elements with no stacking context
+$rds-z-index-content: 1; // Z-index for content layers like cards or sections
+$rds-z-index-overlay: 100; // Z-index for overlays like dropdowns or popovers
+$rds-z-index-sidebar: 200; // Z-index for sidebar menus
+$rds-z-index-header: 300; // Z-index for header bars
+$rds-z-index-modal: 400; // Z-index for modal dialogs
+$rds-z-index-notification: 500; // Z-index for notifications or toasts
+$rds-z-index-tooltip: 600; // Z-index for tooltips or floating elements
+$rds-z-index-debug: 1000; // Z-index for debugging tools or overlays
+$rds-box-shadow-default: 0 0 2px 0px rgba(0, 0, 0, 0.1); // Box-shadow for subtle elevation
+$rds-box-shadow-card: 0 0 4px 0px rgba(0, 0, 0, 0.1); // Box-shadow for card components
+$rds-box-shadow-dropdown: 0 0 16px 0px rgba(0, 0, 0, 0.1); // Box-shadow for dropdowns or popovers
+$rds-box-shadow-modal: 0 0 24px 0px rgba(0, 0, 0, 0.1); // Box-shadow for modal dialogs
+$rds-breakpoint-sm: 30rem; // Breakpoint for small viewports
+$rds-breakpoint-md: 46.25rem; // Breakpoint for medium viewports
+$rds-breakpoint-lg: 67.5rem; // Breakpoint for large viewports
+$rds-breakpoint-xl: 78.75rem; // Breakpoint for extra-large viewports
+$rds-breakpoint-2xl: 87.5rem; // Breakpoint for extra-extra-large viewports
+$rds-white-base: #ffffff; // White color base
+$rds-black-base: #000000; // Black color base
+$rds-color-primitive-red-100: #ff0000;
+$rds-color-primitive-blue-100: #0000ff;
+$rds-state-disabled-lighter: $rds-gray-20; // State disabled lighter color
+$rds-state-disabled-light: $rds-gray-40; // State disabled light color
+$rds-state-disabled-base: $rds-gray-50; // State disabled base color
+$rds-state-disabled-dark: $rds-gray-70; // State disabled dark color
+$rds-state-disabled-darker: $rds-gray-90; // State disabled darker color
+$rds-state-emergency-base: $rds-red-warm-vivid-60v; // State emergency base color
+$rds-state-emergency-dark: $rds-red-warm-80; // State emergency dark color
+$rds-state-error-lighter: $rds-red-warm-10; // State error lighter color
+$rds-state-error-light: $rds-red-warm-vivid-30v; // State error light color
+$rds-state-error-base: $rds-red-warm-vivid-50v; // State error base color
+$rds-state-error-dark: $rds-red-vivid-60v; // State error dark color
+$rds-state-error-darker: $rds-red-70; // State error darker color
+$rds-state-info-lighter: $rds-cyan-5; // State info lighter color
+$rds-state-info-light: $rds-cyan-20; // State info light color
+$rds-state-info-base: $rds-cyan-vivid-30v; // State info base color
+$rds-state-info-dark: $rds-cyan-vivid-40v; // State info dark color
+$rds-state-info-darker: $rds-blue-cool-60; // State info darker color
+$rds-state-success-lighter: $rds-green-cool-5; // State success lighter color
+$rds-state-success-light: $rds-green-cool-vivid-20v; // State success light color
+$rds-state-success-base: $rds-green-cool-vivid-40v; // State success base color
+$rds-state-success-dark: $rds-green-cool-vivid-50v; // State success dark color
+$rds-state-success-darker: $rds-green-cool-vivid-60v; // State success darker color
+$rds-state-warning-lighter: $rds-yellow-5; // State warning lighter color
+$rds-state-warning-light: $rds-yellow-vivid-10v; // State warning light color
+$rds-state-warning-base: $rds-gold-vivid-20v; // State warning base color
+$rds-state-warning-dark: $rds-gold-vivid-30v; // State warning dark color
+$rds-state-warning-darker: $rds-gold-vivid-50v; // State warning darker color
+$rds-theme-accent-cool-lighter: $rds-blue-cool-vivid-5v; // Theme accent cool lighter color
+$rds-theme-accent-cool-light: $rds-blue-cool-vivid-20v; // Theme accent cool light color
+$rds-theme-accent-cool-base: $rds-cyan-vivid-30v; // Theme accent cool base color
+$rds-theme-accent-cool-dark: $rds-blue-cool-vivid-40v; // Theme accent cool dark color
+$rds-theme-accent-cool-darker: $rds-blue-cool-vivid-60v; // Theme accent cool darker color
+$rds-theme-accent-warm-lighter: $rds-orange-10; // Theme accent warm lighter color
+$rds-theme-accent-warm-light: $rds-orange-vivid-20v; // Theme accent warm light color
+$rds-theme-accent-warm-base: $rds-orange-vivid-30v; // Theme accent warm base color
+$rds-theme-accent-warm-dark: $rds-orange-vivid-50v; // Theme accent warm dark color
+$rds-theme-accent-warm-darker: $rds-orange-60; // Theme accent warm darker color
+$rds-theme-base-lightest: $rds-gray-5; // Theme base lightest color
+$rds-theme-base-lighter: $rds-gray-cool-10; // Theme base lighter color
+$rds-theme-base-light: $rds-gray-cool-30; // Theme base light color
+$rds-theme-base-base: $rds-gray-cool-50; // Theme base color
+$rds-theme-base-dark: $rds-gray-cool-60; // Theme base dark color
+$rds-theme-base-darker: $rds-gray-cool-70; // Theme base darker color
+$rds-theme-base-darkest: $rds-gray-90; // Theme base darkest color
+$rds-theme-base-ink: $rds-gray-90; // Theme base ink color
+$rds-theme-primary-lighter: $rds-blue-10; // Theme primary lighter color
+$rds-theme-primary-light: $rds-blue-30; // Theme primary light color
+$rds-theme-primary-base: $rds-blue-vivid-60v; // Theme primary base color
+$rds-theme-primary-dark: $rds-blue-warm-vivid-60v; // Theme primary dark color
+$rds-theme-primary-darker: $rds-blue-warm-vivid-70v; // Theme primary darker color
+$rds-theme-primary-vivid: $rds-blue-warm-vivid-80v; // Theme primary vivid color
+$rds-theme-secondary-lighter: $rds-red-cool-10; // Theme secondary lighter color
+$rds-theme-secondary-light: $rds-red-30; // Theme secondary light color
+$rds-theme-secondary-base: $rds-red-50; // Theme secondary base color
+$rds-theme-secondary-vivid: $rds-red-cool-vivid-50v; // Theme secondary vivid color
+$rds-theme-secondary-dark: $rds-red-vivid-60v; // Theme secondary dark color
+$rds-theme-secondary-darker: $rds-red-vivid-70v; // Theme secondary darker color
+$rds-neutral-0: $rds-alpha-white-0; // Neutral color shade 0
+$rds-neutral-50: $rds-tw-slate-50; // Neutral color shade 50
+$rds-neutral-100: $rds-tw-slate-100; // Neutral color shade 100
+$rds-neutral-200: $rds-tw-slate-200; // Neutral color shade 200
+$rds-neutral-300: $rds-tw-slate-300; // Neutral color shade 300
+$rds-neutral-400: $rds-tw-slate-400; // Neutral color shade 400
+$rds-neutral-500: $rds-tw-slate-500; // Neutral color shade 500
+$rds-neutral-600: $rds-tw-slate-600; // Neutral color shade 600
+$rds-neutral-700: $rds-tw-slate-700; // Neutral color shade 700
+$rds-neutral-800: $rds-tw-slate-800; // Neutral color shade 800
+$rds-neutral-900: $rds-tw-slate-900; // Neutral color shade 900
+$rds-neutral-950: $rds-tw-slate-950; // Neutral color shade 950
+$rds-neutral-variant-0: $rds-alpha-white-0; // Neutral variant color shade 0
+$rds-neutral-variant-50: $rds-tw-gray-50; // Neutral variant color shade 50
+$rds-neutral-variant-100: $rds-tw-gray-100; // Neutral variant color shade 100
+$rds-neutral-variant-200: $rds-tw-gray-200; // Neutral variant color shade 200
+$rds-neutral-variant-300: $rds-tw-gray-300; // Neutral variant color shade 300
+$rds-neutral-variant-400: $rds-tw-gray-400; // Neutral variant color shade 400
+$rds-neutral-variant-500: $rds-tw-gray-500; // Neutral variant color shade 500
+$rds-neutral-variant-600: $rds-tw-gray-600; // Neutral variant color shade 600
+$rds-neutral-variant-700: $rds-tw-gray-700; // Neutral variant color shade 700
+$rds-neutral-variant-800: $rds-tw-gray-800; // Neutral variant color shade 800
+$rds-neutral-variant-900: $rds-tw-gray-900; // Neutral variant color shade 900
+$rds-neutral-variant-950: $rds-tw-gray-950; // Neutral variant color shade 950
+$rds-primary-50: $rds-tw-teal-50; // Primary color shade 50
+$rds-primary-100: $rds-tw-teal-100; // Primary color shade 100
+$rds-primary-200: $rds-tw-teal-200; // Primary color shade 200
+$rds-primary-300: $rds-tw-teal-300; // Primary color shade 300
+$rds-primary-400: $rds-tw-teal-400; // Primary color shade 400
+$rds-primary-500: $rds-tw-teal-500; // Primary color shade 500
+$rds-primary-600: $rds-tw-teal-600; // Primary color shade 600
+$rds-primary-700: $rds-tw-teal-700; // Primary color shade 700
+$rds-primary-800: $rds-tw-teal-800; // Primary color shade 800
+$rds-primary-900: $rds-tw-teal-900; // Primary color shade 900
+$rds-primary-950: $rds-tw-teal-950; // Primary color shade 950
+$rds-secondary-50: $rds-tw-sky-50; // Secondary color shade 50
+$rds-secondary-100: $rds-tw-sky-100; // Secondary color shade 100
+$rds-secondary-200: $rds-tw-sky-200; // Secondary color shade 200
+$rds-secondary-300: $rds-tw-sky-300; // Secondary color shade 300
+$rds-secondary-400: $rds-tw-sky-400; // Secondary color shade 400
+$rds-secondary-500: $rds-tw-sky-500; // Secondary color shade 500
+$rds-secondary-600: $rds-tw-sky-600; // Secondary color shade 600
+$rds-secondary-700: $rds-tw-sky-700; // Secondary color shade 700
+$rds-secondary-800: $rds-tw-sky-800; // Secondary color shade 800
+$rds-secondary-900: $rds-tw-sky-900; // Secondary color shade 900
+$rds-secondary-950: $rds-tw-sky-950; // Secondary color shade 950
+$rds-tertiary-50: $rds-tw-yellow-50; // Tertiary color shade 50
+$rds-tertiary-100: $rds-tw-yellow-100; // Tertiary color shade 100
+$rds-tertiary-200: $rds-tw-yellow-200; // Tertiary color shade 200
+$rds-tertiary-300: $rds-tw-yellow-300; // Tertiary color shade 300
+$rds-tertiary-400: $rds-tw-yellow-400; // Tertiary color shade 400
+$rds-tertiary-500: $rds-tw-yellow-500; // Tertiary color shade 500
+$rds-tertiary-600: $rds-tw-yellow-600; // Tertiary color shade 600
+$rds-tertiary-700: $rds-tw-yellow-700; // Tertiary color shade 700
+$rds-tertiary-800: $rds-tw-yellow-800; // Tertiary color shade 800
+$rds-tertiary-900: $rds-tw-yellow-900; // Tertiary color shade 900
+$rds-tertiary-950: $rds-tw-yellow-950; // Tertiary color shade 950
+$rds-surface-base: $rds-white-base; // Surface base color
+$rds-surface-inverse: $rds-black-base; // Inverse surface color
+$rds-surface-on-surface-inverse: $rds-white-base; // On-surface inverse color
+$rds-scrim-base: $rds-alpha-black-100; // Scrim base color
+$rds-alert-error-surface: $rds-tw-rose-50; // Alert error surface color
+$rds-alert-error-border-color: $rds-tw-rose-600; // Alert error border color
+$rds-alert-error-icon-color: $rds-tw-rose-600; // Alert error icon color
+$rds-alert-warning-border-color: $rds-tw-yellow-500; // Alert warning border color
+$rds-alert-warning-icon-color: $rds-tw-yellow-500; // Alert warning icon color
+$rds-alert-success-surface: $rds-tw-emerald-50; // Alert success surface color
+$rds-alert-success-border-color: $rds-tw-emerald-600; // Alert success border color
+$rds-alert-success-icon-color: $rds-tw-emerald-600; // Alert success icon color
+$rds-alert-info-surface: $rds-tw-blue-50; // Alert info surface color
+$rds-alert-info-border-color: $rds-tw-blue-600; // Alert info border color
+$rds-alert-info-icon-color: $rds-tw-blue-600; // Alert info icon color
+$rds-color-semantic-primary-base: $rds-color-primitive-blue-100;
+$rds-color-semantic-error-base: $rds-color-primitive-red-100;
+$rds-primary-surface-10: $rds-primary-200; // Primary surface color shade 10
+$rds-primary-surface-20: $rds-primary-300; // Primary surface color shade 20
+$rds-primary-on-primary: $rds-primary-950; // On-primary color
+$rds-primary-on-primary-variant: $rds-primary-950; // On-primary variant color
+$rds-secondary-surface-10: $rds-secondary-200; // Secondary surface color shade 10
+$rds-secondary-surface-20: $rds-secondary-300; // Secondary surface color shade 20
+$rds-secondary-on-secondary: $rds-secondary-950; // On-secondary color
+$rds-secondary-on-secondary-variant: $rds-secondary-950; // On-secondary variant color
+$rds-tertiary-surface-10: $rds-tertiary-100; // Tertiary surface color shade 10
+$rds-tertiary-surface-20: $rds-tertiary-200; // Tertiary surface color shade 20
+$rds-tertiary-on-tertiary: $rds-tertiary-950; // On-tertiary color
+$rds-tertiary-on-tertiary-variant: $rds-tertiary-950; // On-tertiary variant color
+$rds-surface-10: $rds-neutral-50; // Surface color shade 10
+$rds-surface-20: $rds-neutral-100; // Surface color shade 20
+$rds-surface-30: $rds-neutral-200; // Surface color shade 30
+$rds-surface-40: $rds-neutral-300; // Surface color shade 40
+$rds-surface-50: $rds-neutral-600; // Surface color shade 50
+$rds-surface-on-surface: $rds-neutral-950; // On-surface color
+$rds-surface-on-surface-variant: $rds-neutral-0; // On-surface variant color
+$rds-focus-ring-color: $rds-secondary-500; // Focus ring color
+$rds-alert-error-on-surface: $rds-neutral-950; // Alert error on-surface color
+$rds-alert-warning-surface: $rds-tertiary-50; // Alert warning surface color
+$rds-alert-warning-on-surface: $rds-neutral-950; // Alert warning on-surface color
+$rds-alert-success-on-surface: $rds-neutral-950; // Alert success on-surface color
+$rds-alert-info-on-surface: $rds-neutral-950; // Alert info on-surface color

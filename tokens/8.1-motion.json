@@ -1,0 +1,51 @@
+{
+  "duration": {
+    "1x": {
+      "$type": "time",
+      "$value": "100ms",
+      "$description": "Motion duration 1x"
+    },
+    "2x": {
+      "$type": "time",
+      "$value": "200ms",
+      "$description": "Motion duration 2x"
+    },
+    "3x": {
+      "$type": "time",
+      "$value": "300ms",
+      "$description": "Motion duration 3x"
+    },
+    "4x": {
+      "$type": "time",
+      "$value": "400ms",
+      "$description": "Motion duration 4x"
+    },
+    "5x": {
+      "$type": "time",
+      "$value": "500ms",
+      "$description": "Motion duration 5x"
+    },
+    "6x": {
+      "$type": "time",
+      "$value": "600ms",
+      "$description": "Motion duration 6x"
+    }
+  },
+  "timing": {
+    "function-ease-out": {
+      "$type": "cubicBezier",
+      "$value": "cubic-bezier(0.32, 0.94, 0.60, 1)",
+      "$description": "Motion timing function ease-out"
+    },
+    "function-ease": {
+      "$type": "cubicBezier",
+      "$value": "cubic-bezier(0.15, 0, 0.15, 0)",
+      "$description": "Motion timing function ease"
+    },
+    "function-linear": {
+      "$type": "cubicBezier",
+      "$value": "cubic-bezier(0, 0, 1, 1)",
+      "$description": "Motion timing function linear"
+    }
+  }
+}

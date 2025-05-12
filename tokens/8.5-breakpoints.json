@@ -1,0 +1,29 @@
+{
+  "breakpoint": {
+    "sm": {
+      "$type": "dimension",
+      "$value": "30rem",
+      "$description": "Breakpoint for small viewports"
+    },
+    "md": {
+      "$type": "dimension",
+      "$value": "46.25rem",
+      "$description": "Breakpoint for medium viewports"
+    },
+    "lg": {
+      "$type": "dimension",
+      "$value": "67.5rem",
+      "$description": "Breakpoint for large viewports"
+    },
+    "xl": {
+      "$type": "dimension",
+      "$value": "78.75rem",
+      "$description": "Breakpoint for extra-large viewports"
+    },
+    "2xl": {
+      "$type": "dimension",
+      "$value": "87.5rem",
+      "$description": "Breakpoint for extra-extra-large viewports"
+    }
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "state-disabled": {
+    "lighter": {
+      "$type": "color",
+      "$value": "{gray.20}",
+      "$description": "State disabled lighter color"
+    },
+    "light": {
+      "$type": "color",
+      "$value": "{gray.40}",
+      "$description": "State disabled light color"
+    },
+    "base": {
+      "$type": "color",
+      "$value": "{gray.50}",
+      "$description": "State disabled base color"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "{gray.70}",
+      "$description": "State disabled dark color"
+    },
+    "darker": {
+      "$type": "color",
+      "$value": "{gray.90}",
+      "$description": "State disabled darker color"
+    }
+  },
+  "state-emergency": {
+    "base": {
+      "$type": "color",
+      "$value": "{red-warm-vivid.60v}",
+      "$description": "State emergency base color"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "{red-warm.80}",
+      "$description": "State emergency dark color"
+    }
+  },
+  "state-error": {
+    "lighter": {
+      "$type": "color",
+      "$value": "{red-warm.10}",
+      "$description": "State error lighter color"
+    },
+    "light": {
+      "$type": "color",
+      "$value": "{red-warm-vivid.30v}",
+      "$description": "State error light color"
+    },
+    "base": {
+      "$type": "color",
+      "$value": "{red-warm-vivid.50v}",
+      "$description": "State error base color"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "{red-vivid.60v}",
+      "$description": "State error dark color"
+    },
+    "darker": {
+      "$type": "color",
+      "$value": "{red.70}",
+      "$description": "State error darker color"
+    }
+  },
+  "state-info": {
+    "lighter": {
+      "$type": "color",
+      "$value": "{cyan.5}",
+      "$description": "State info lighter color"
+    },
+    "light": {
+      "$type": "color",
+      "$value": "{cyan.20}",
+      "$description": "State info light color"
+    },
+    "base": {
+      "$type": "color",
+      "$value": "{cyan-vivid.30v}",
+      "$description": "State info base color"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "{cyan-vivid.40v}",
+      "$description": "State info dark color"
+    },
+    "darker": {
+      "$type": "color",
+      "$value": "{blue-cool.60}",
+      "$description": "State info darker color"
+    }
+  },
+  "state-success": {
+    "lighter": {
+      "$type": "color",
+      "$value": "{green-cool.5}",
+      "$description": "State success lighter color"
+    },
+    "light": {
+      "$type": "color",
+      "$value": "{green-cool-vivid.20v}",
+      "$description": "State success light color"
+    },
+    "base": {
+      "$type": "color",
+      "$value": "{green-cool-vivid.40v}",
+      "$description": "State success base color"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "{green-cool-vivid.50v}",
+      "$description": "State success dark color"
+    },
+    "darker": {
+      "$type": "color",
+      "$value": "{green-cool-vivid.60v}",
+      "$description": "State success darker color"
+    }
+  },
+  "state-warning": {
+    "lighter": {
+      "$type": "color",
+      "$value": "{yellow.5}",
+      "$description": "State warning lighter color"
+    },
+    "light": {
+      "$type": "color",
+      "$value": "{yellow-vivid.10v}",
+      "$description": "State warning light color"
+    },
+    "base": {
+      "$type": "color",
+      "$value": "{gold-vivid.20v}",
+      "$description": "State warning base color"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "{gold-vivid.30v}",
+      "$description": "State warning dark color"
+    },
+    "darker": {
+      "$type": "color",
+      "$value": "{gold-vivid.50v}",
+      "$description": "State warning darker color"
+    }
+  },
+  "theme-accent-cool": {
+    "lighter": {
+      "$type": "color",
+      "$value": "{blue-cool-vivid.5v}",
+      "$description": "Theme accent cool lighter color"
+    },
+    "light": {
+      "$type": "color",
+      "$value": "{blue-cool-vivid.20v}",
+      "$description": "Theme accent cool light color"
+    },
+    "base": {
+      "$type": "color",
+      "$value": "{cyan-vivid.30v}",
+      "$description": "Theme accent cool base color"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "{blue-cool-vivid.40v}",
+      "$description": "Theme accent cool dark color"
+    },
+    "darker": {
+      "$type": "color",
+      "$value": "{blue-cool-vivid.60v}",
+      "$description": "Theme accent cool darker color"
+    }
+  },
+  "theme-accent-warm": {
+    "lighter": {
+      "$type": "color",
+      "$value": "{orange.10}",
+      "$description": "Theme accent warm lighter color"
+    },
+    "light": {
+      "$type": "color",
+      "$value": "{orange-vivid.20v}",
+      "$description": "Theme accent warm light color"
+    },
+    "base": {
+      "$type": "color",
+      "$value": "{orange-vivid.30v}",
+      "$description": "Theme accent warm base color"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "{orange-vivid.50v}",
+      "$description": "Theme accent warm dark color"
+    },
+    "darker": {
+      "$type": "color",
+      "$value": "{orange.60}",
+      "$description": "Theme accent warm darker color"
+    }
+  },
+  "theme-base": {
+    "lightest": {
+      "$type": "color",
+      "$value": "{gray.5}",
+      "$description": "Theme base lightest color"
+    },
+    "lighter": {
+      "$type": "color",
+      "$value": "{gray-cool.10}",
+      "$description": "Theme base lighter color"
+    },
+    "light": {
+      "$type": "color",
+      "$value": "{gray-cool.30}",
+      "$description": "Theme base light color"
+    },
+    "base": {
+      "$type": "color",
+      "$value": "{gray-cool.50}",
+      "$description": "Theme base color"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "{gray-cool.60}",
+      "$description": "Theme base dark color"
+    },
+    "darker": {
+      "$type": "color",
+      "$value": "{gray-cool.70}",
+      "$description": "Theme base darker color"
+    },
+    "darkest": {
+      "$type": "color",
+      "$value": "{gray.90}",
+      "$description": "Theme base darkest color"
+    },
+    "ink": {
+      "$type": "color",
+      "$value": "{gray.90}",
+      "$description": "Theme base ink color"
+    }
+  },
+  "theme-primary": {
+    "lighter": {
+      "$type": "color",
+      "$value": "{blue.10}",
+      "$description": "Theme primary lighter color"
+    },
+    "light": {
+      "$type": "color",
+      "$value": "{blue.30}",
+      "$description": "Theme primary light color"
+    },
+    "base": {
+      "$type": "color",
+      "$value": "{blue-vivid.60v}",
+      "$description": "Theme primary base color"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "{blue-warm-vivid.60v}",
+      "$description": "Theme primary dark color"
+    },
+    "darker": {
+      "$type": "color",
+      "$value": "{blue-warm-vivid.70v}",
+      "$description": "Theme primary darker color"
+    },
+    "vivid": {
+      "$type": "color",
+      "$value": "{blue-warm-vivid.80v}",
+      "$description": "Theme primary vivid color"
+    }
+  },
+  "theme-secondary": {
+    "lighter": {
+      "$type": "color",
+      "$value": "{red-cool.10}",
+      "$description": "Theme secondary lighter color"
+    },
+    "light": {
+      "$type": "color",
+      "$value": "{red.30}",
+      "$description": "Theme secondary light color"
+    },
+    "base": {
+      "$type": "color",
+      "$value": "{red.50}",
+      "$description": "Theme secondary base color"
+    },
+    "vivid": {
+      "$type": "color",
+      "$value": "{red-cool-vivid.50v}",
+      "$description": "Theme secondary vivid color"
+    },
+    "dark": {
+      "$type": "color",
+      "$value": "{red-vivid.60v}",
+      "$description": "Theme secondary dark color"
+    },
+    "darker": {
+      "$type": "color",
+      "$value": "{red-vivid.70v}",
+      "$description": "Theme secondary darker color"
+    }
+  }
+}

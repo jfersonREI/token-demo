@@ -1,0 +1,9 @@
+node_modules/
+build/
+dist/
+src/styles/variables.css
+src/styles/_variables.scss
+src/styles/variables.js
+.DS_Store
+.env
+*.log
