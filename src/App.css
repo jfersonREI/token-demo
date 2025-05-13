@@ -3,12 +3,12 @@
 }
 
 .App-header {
-  background-color: var(--rds-color-primitive-blue-100);
+  background-color: var(--rds-surface-base);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: var(--rds-white-base);
+  color: var(--rds-black-base);
 }

@@ -3,13 +3,13 @@ import "./ColorDisplay.css";
 
 const ColorDisplay = () => {
   const colors = [
-    { name: "Primitive Red 100", var: "--rds-color-primitive-red-100" },
-    { name: "Primitive Blue 100", var: "--rds-color-primitive-blue-100" },
+    { name: "Neutral 300", var: "--rds-neutral-300" },
+    { name: "Primary 300", var: "--rds-primary-300" },
     {
-      name: "Semantic Primary Base",
-      var: "--rds-color-semantic-primary-base",
+      name: "Secondary 400",
+      var: "--rds-secondary-400",
     },
-    { name: "Semantic Error Base", var: "--rds-color-semantic-error-base" },
+    { name: "Tertiary 400", var: "--rds-tertiary-400" },
   ];
 
   return (
