@@ -56,7 +56,7 @@ A React project using Style Dictionary 4 to process design tokens into CSS, SCSS
 
 ## Project Structure
 
-- `tokens/`: JSON token files (e.g., `sample-uswds-colors.json`, USWDS files).
+- `tokens/`: JSON token files (e.g., `sample-colors.json`, token files).
 - `src/styles/`: Generated CSS, SCSS, and JS variables.
 - `src/components/`: React components (`ColorDisplay` for token demo).
 - `build-tokens.js`: Script to run Style Dictionary 4.
