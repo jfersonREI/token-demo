@@ -30,25 +30,25 @@
       "$value": "{neutral.600}",
       "$description": "Surface color shade 50"
     },
-    "on-surface": {
+    "color-on-surface": {
       "$type": "color",
       "$value": "{neutral.950}",
-      "$description": "On-surface color"
+      "$description": "color-on-surface color"
     },
-    "on-surface-variant": {
+    "color-on-surface-variant": {
       "$type": "color",
       "$value": "{neutral.0}",
-      "$description": "On-surface variant color"
+      "$description": "color-on-surface variant color"
     },
     "inverse": {
       "$type": "color",
       "$value": "{black.base}",
       "$description": "Inverse surface color"
     },
-    "on-surface-inverse": {
+    "color-on-surface-inverse": {
       "$type": "color",
       "$value": "{white.base}",
-      "$description": "On-surface inverse color"
+      "$description": "color-on-surface inverse color"
     }
   },
   "primary": {
@@ -62,15 +62,15 @@
       "$value": "{primary.300}",
       "$description": "Primary surface color shade 20"
     },
-    "on-primary": {
+    "color-on-primary": {
       "$type": "color",
       "$value": "{primary.950}",
-      "$description": "On-primary color"
+      "$description": "color-on-primary color"
     },
-    "on-primary-variant": {
+    "color-on-primary-variant": {
       "$type": "color",
       "$value": "{primary.950}",
-      "$description": "On-primary variant color"
+      "$description": "color-on-primary variant color"
     }
   },
   "secondary": {
@@ -84,15 +84,15 @@
       "$value": "{secondary.300}",
       "$description": "Secondary surface color shade 20"
     },
-    "on-secondary": {
+    "color-on-secondary": {
       "$type": "color",
       "$value": "{secondary.950}",
-      "$description": "On-secondary color"
+      "$description": "color-on-secondary color"
     },
-    "on-secondary-variant": {
+    "color-on-secondary-variant": {
       "$type": "color",
       "$value": "{secondary.950}",
-      "$description": "On-secondary variant color"
+      "$description": "color-on-secondary variant color"
     }
   },
   "tertiary": {
@@ -106,15 +106,15 @@
       "$value": "{tertiary.200}",
       "$description": "Tertiary surface color shade 20"
     },
-    "on-tertiary": {
+    "color-on-tertiary": {
       "$type": "color",
       "$value": "{tertiary.950}",
-      "$description": "On-tertiary color"
+      "$description": "color-on-tertiary color"
     },
-    "on-tertiary-variant": {
+    "color-on-tertiary-variant": {
       "$type": "color",
       "$value": "{tertiary.950}",
-      "$description": "On-tertiary variant color"
+      "$description": "color-on-tertiary variant color"
     }
   },
   "scrim": {
@@ -132,10 +132,10 @@
     }
   },
   "alert-error": {
-    "on-surface": {
+    "color-on-surface": {
       "$type": "color",
       "$value": "{neutral.950}",
-      "$description": "Alert error on-surface color"
+      "$description": "Alert error color-on-surface color"
     },
     "surface": {
       "$type": "color",
@@ -147,7 +147,7 @@
       "$value": "{tw-rose.600}",
       "$description": "Alert error border color"
     },
-    "icon-color": {
+    "iccolor-on-color": {
       "$type": "color",
       "$value": "{tw-rose.600}",
       "$description": "Alert error icon color"
@@ -159,17 +159,17 @@
       "$value": "{tertiary.50}",
       "$description": "Alert warning surface color"
     },
-    "on-surface": {
+    "color-on-surface": {
       "$type": "color",
       "$value": "{neutral.950}",
-      "$description": "Alert warning on-surface color"
+      "$description": "Alert warning color-on-surface color"
     },
     "border-color": {
       "$type": "color",
       "$value": "{tw-yellow.500}",
       "$description": "Alert warning border color"
     },
-    "icon-color": {
+    "iccolor-on-color": {
       "$type": "color",
       "$value": "{tw-yellow.500}",
       "$description": "Alert warning icon color"
@@ -181,17 +181,17 @@
       "$value": "{tw-emerald.50}",
       "$description": "Alert success surface color"
     },
-    "on-surface": {
+    "color-on-surface": {
       "$type": "color",
       "$value": "{neutral.950}",
-      "$description": "Alert success on-surface color"
+      "$description": "Alert success color-on-surface color"
     },
     "border-color": {
       "$type": "color",
       "$value": "{tw-emerald.600}",
       "$description": "Alert success border color"
     },
-    "icon-color": {
+    "iccolor-on-color": {
       "$type": "color",
       "$value": "{tw-emerald.600}",
       "$description": "Alert success icon color"
@@ -203,17 +203,17 @@
       "$value": "{tw-blue.50}",
       "$description": "Alert info surface color"
     },
-    "on-surface": {
+    "color-on-surface": {
       "$type": "color",
       "$value": "{neutral.950}",
-      "$description": "Alert info on-surface color"
+      "$description": "Alert info color-on-surface color"
     },
     "border-color": {
       "$type": "color",
       "$value": "{tw-blue.600}",
       "$description": "Alert info border color"
     },
-    "icon-color": {
+    "iccolor-on-color": {
       "$type": "color",
       "$value": "{tw-blue.600}",
       "$description": "Alert info icon color"
