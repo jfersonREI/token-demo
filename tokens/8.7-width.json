@@ -1,0 +1,104 @@
+{
+  "width": {
+    "0": {
+      "$value": "0px",
+      "$type": "dimension",
+      "$description": "Width 0px"
+    },
+    "25": {
+      "$value": "1px",
+      "$type": "dimension",
+      "$description": "Width 1px"
+    },
+    "50": {
+      "$value": "2px",
+      "$type": "dimension",
+      "$description": "Width 2px"
+    },
+    "100": {
+      "$value": "4px",
+      "$type": "dimension",
+      "$description": "Width 4px"
+    },
+    "150": {
+      "$value": "6px",
+      "$type": "dimension",
+      "$description": "Width 6px"
+    },
+    "200": {
+      "$value": "8px",
+      "$type": "dimension",
+      "$description": "Width 8px"
+    },
+    "300": {
+      "$value": "12px",
+      "$type": "dimension",
+      "$description": "Width 12px"
+    },
+    "400": {
+      "$value": "16px",
+      "$type": "dimension",
+      "$description": "Width 16px"
+    },
+    "500": {
+      "$value": "20px",
+      "$type": "dimension",
+      "$description": "Width 20px"
+    },
+    "600": {
+      "$value": "24px",
+      "$type": "dimension",
+      "$description": "Width 24px"
+    },
+    "700": {
+      "$value": "28px",
+      "$type": "dimension",
+      "$description": "Width 28px"
+    },
+    "800": {
+      "$value": "32px",
+      "$type": "dimension",
+      "$description": "Width 32px"
+    },
+    "900": {
+      "$value": "36px",
+      "$type": "dimension",
+      "$description": "Width 36px"
+    },
+    "1000": {
+      "$value": "40px",
+      "$type": "dimension",
+      "$description": "Width 40px"
+    },
+    "1200": {
+      "$value": "48px",
+      "$type": "dimension",
+      "$description": "Width 48px"
+    },
+    "1600": {
+      "$value": "64px",
+      "$type": "dimension",
+      "$description": "Width 64px"
+    },
+    "2000": {
+      "$value": "80px",
+      "$type": "dimension",
+      "$description": "Width 80px"
+    },
+    "2400": {
+      "$value": "96px",
+      "$type": "dimension",
+      "$description": "Width 96px"
+    },
+    "2800": {
+      "$value": "112px",
+      "$type": "dimension",
+      "$description": "Width 112px"
+    },
+    "3200": {
+      "$value": "128px",
+      "$type": "dimension",
+      "$description": "Width 128px"
+    }
+  }
+}
