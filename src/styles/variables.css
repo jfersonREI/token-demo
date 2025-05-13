@@ -737,13 +737,10 @@
   --rds-tw-zinc-800: #27272a; /** Zinc color shade 800 */
   --rds-tw-zinc-900: #18181b; /** Zinc color shade 900 */
   --rds-tw-zinc-950: #09090b; /** Zinc color shade 950 */
-  --rds-font-family-sans-1: Outfit; /** Sans-1 font family */
-  --rds-font-family-sans-2: Inter; /** Sans-2 font family */
+  --rds-font-family-sans-1: Outfit, sans-serif; /** Sans-1 font family */
+  --rds-font-family-sans-2: Inter, sans-serif; /** Sans-2 font family */
   --rds-font-family-serif: Merriweather; /** Serif font family */
   --rds-font-family-mono: 'Roboto Mono'; /** Monospace font family */
-  --rds-font-role-body: Inter; /** Body text font role */
-  --rds-font-role-heading: Outfit; /** Heading text font role */
-  --rds-font-role-label: Inter; /** Label text font role */
   --rds-font-weight-light: Light; /** Light font weight */
   --rds-font-weight-regular: Regular; /** Regular font weight */
   --rds-font-weight-medium: Medium; /** Medium font weight */
@@ -935,6 +932,9 @@
   --rds-theme-secondary-vivid: var(--rds-red-cool-vivid-50v); /** Theme secondary vivid color */
   --rds-theme-secondary-dark: var(--rds-red-vivid-60v); /** Theme secondary dark color */
   --rds-theme-secondary-darker: var(--rds-red-vivid-70v); /** Theme secondary darker color */
+  --rds-font-role-body: var(--rds-font-family-sans-2); /** Body text font role */
+  --rds-font-role-heading: var(--rds-font-family-sans-1); /** Heading text font role */
+  --rds-font-role-label: var(--rds-font-family-sans-2); /** Label text font role */
   --rds-neutral-0: var(--rds-alpha-white-0); /** Neutral color shade 0 */
   --rds-neutral-50: var(--rds-tw-slate-50); /** Neutral color shade 50 */
   --rds-neutral-100: var(--rds-tw-slate-100); /** Neutral color shade 100 */

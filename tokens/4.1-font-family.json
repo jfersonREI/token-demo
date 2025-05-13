@@ -2,12 +2,12 @@
   "font-family": {
     "sans-1": {
       "$type": "fontFamily",
-      "$value": "Outfit",
+      "$value": "Outfit, sans-serif",
       "$description": "Sans-1 font family"
     },
     "sans-2": {
       "$type": "fontFamily",
-      "$value": "Inter",
+      "$value": "Inter, sans-serif",
       "$description": "Sans-2 font family"
     },
     "serif": {
@@ -24,17 +24,17 @@
   "font-role": {
     "body": {
       "$type": "fontFamily",
-      "$value": "Inter",
+      "$value": "{font-family.sans-2}",
       "$description": "Body text font role"
     },
     "heading": {
       "$type": "fontFamily",
-      "$value": "Outfit",
+      "$value": "{font-family.sans-1}",
       "$description": "Heading text font role"
     },
     "label": {
       "$type": "fontFamily",
-      "$value": "Inter",
+      "$value": "{font-family.sans-2}",
       "$description": "Label text font role"
     }
   }

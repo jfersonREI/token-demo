@@ -735,13 +735,10 @@ $rds-tw-zinc-700: #3f3f46; // Zinc color shade 700
 $rds-tw-zinc-800: #27272a; // Zinc color shade 800
 $rds-tw-zinc-900: #18181b; // Zinc color shade 900
 $rds-tw-zinc-950: #09090b; // Zinc color shade 950
-$rds-font-family-sans-1: Outfit; // Sans-1 font family
-$rds-font-family-sans-2: Inter; // Sans-2 font family
+$rds-font-family-sans-1: Outfit, sans-serif; // Sans-1 font family
+$rds-font-family-sans-2: Inter, sans-serif; // Sans-2 font family
 $rds-font-family-serif: Merriweather; // Serif font family
 $rds-font-family-mono: 'Roboto Mono'; // Monospace font family
-$rds-font-role-body: Inter; // Body text font role
-$rds-font-role-heading: Outfit; // Heading text font role
-$rds-font-role-label: Inter; // Label text font role
 $rds-font-weight-light: Light; // Light font weight
 $rds-font-weight-regular: Regular; // Regular font weight
 $rds-font-weight-medium: Medium; // Medium font weight
@@ -933,6 +930,9 @@ $rds-theme-secondary-base: $rds-red-50; // Theme secondary base color
 $rds-theme-secondary-vivid: $rds-red-cool-vivid-50v; // Theme secondary vivid color
 $rds-theme-secondary-dark: $rds-red-vivid-60v; // Theme secondary dark color
 $rds-theme-secondary-darker: $rds-red-vivid-70v; // Theme secondary darker color
+$rds-font-role-body: $rds-font-family-sans-2; // Body text font role
+$rds-font-role-heading: $rds-font-family-sans-1; // Heading text font role
+$rds-font-role-label: $rds-font-family-sans-2; // Label text font role
 $rds-neutral-0: $rds-alpha-white-0; // Neutral color shade 0
 $rds-neutral-50: $rds-tw-slate-50; // Neutral color shade 50
 $rds-neutral-100: $rds-tw-slate-100; // Neutral color shade 100
