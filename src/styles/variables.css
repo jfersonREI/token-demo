@@ -838,8 +838,6 @@
   --rds-breakpoint-2xl: 87.5rem; /** Breakpoint for extra-extra-large viewports */
   --rds-white-base: #ffffff; /** White color base */
   --rds-black-base: #000000; /** Black color base */
-  --rds-color-primitive-red-100: #ff0000;
-  --rds-color-primitive-blue-100: #0000ff;
   --rds-state-disabled-lighter: var(--rds-gray-20); /** State disabled lighter color */
   --rds-state-disabled-light: var(--rds-gray-40); /** State disabled light color */
   --rds-state-disabled-base: var(--rds-gray-50); /** State disabled base color */
@@ -956,44 +954,42 @@
   --rds-tertiary-950: var(--rds-tw-yellow-950); /** Tertiary color shade 950 */
   --rds-surface-base: var(--rds-white-base); /** Surface base color */
   --rds-surface-inverse: var(--rds-black-base); /** Inverse surface color */
-  --rds-surface-on-surface-inverse: var(--rds-white-base); /** On-surface inverse color */
+  --rds-surface-color-on-surface-inverse: var(--rds-white-base); /** color-on-surface inverse color */
   --rds-scrim-base: var(--rds-alpha-black-100); /** Scrim base color */
   --rds-alert-error-surface: var(--rds-tw-rose-50); /** Alert error surface color */
   --rds-alert-error-border-color: var(--rds-tw-rose-600); /** Alert error border color */
-  --rds-alert-error-icon-color: var(--rds-tw-rose-600); /** Alert error icon color */
+  --rds-alert-error-iccolor-on-color: var(--rds-tw-rose-600); /** Alert error icon color */
   --rds-alert-warning-border-color: var(--rds-tw-yellow-500); /** Alert warning border color */
-  --rds-alert-warning-icon-color: var(--rds-tw-yellow-500); /** Alert warning icon color */
+  --rds-alert-warning-iccolor-on-color: var(--rds-tw-yellow-500); /** Alert warning icon color */
   --rds-alert-success-surface: var(--rds-tw-emerald-50); /** Alert success surface color */
   --rds-alert-success-border-color: var(--rds-tw-emerald-600); /** Alert success border color */
-  --rds-alert-success-icon-color: var(--rds-tw-emerald-600); /** Alert success icon color */
+  --rds-alert-success-iccolor-on-color: var(--rds-tw-emerald-600); /** Alert success icon color */
   --rds-alert-info-surface: var(--rds-tw-blue-50); /** Alert info surface color */
   --rds-alert-info-border-color: var(--rds-tw-blue-600); /** Alert info border color */
-  --rds-alert-info-icon-color: var(--rds-tw-blue-600); /** Alert info icon color */
-  --rds-color-semantic-primary-base: var(--rds-color-primitive-blue-100);
-  --rds-color-semantic-error-base: var(--rds-color-primitive-red-100);
+  --rds-alert-info-iccolor-on-color: var(--rds-tw-blue-600); /** Alert info icon color */
   --rds-primary-surface-10: var(--rds-primary-200); /** Primary surface color shade 10 */
   --rds-primary-surface-20: var(--rds-primary-300); /** Primary surface color shade 20 */
-  --rds-primary-on-primary: var(--rds-primary-950); /** On-primary color */
-  --rds-primary-on-primary-variant: var(--rds-primary-950); /** On-primary variant color */
+  --rds-primary-color-on-primary: var(--rds-primary-950); /** color-on-primary color */
+  --rds-primary-color-on-primary-variant: var(--rds-primary-950); /** color-on-primary variant color */
   --rds-secondary-surface-10: var(--rds-secondary-200); /** Secondary surface color shade 10 */
   --rds-secondary-surface-20: var(--rds-secondary-300); /** Secondary surface color shade 20 */
-  --rds-secondary-on-secondary: var(--rds-secondary-950); /** On-secondary color */
-  --rds-secondary-on-secondary-variant: var(--rds-secondary-950); /** On-secondary variant color */
+  --rds-secondary-color-on-secondary: var(--rds-secondary-950); /** color-on-secondary color */
+  --rds-secondary-color-on-secondary-variant: var(--rds-secondary-950); /** color-on-secondary variant color */
   --rds-tertiary-surface-10: var(--rds-tertiary-100); /** Tertiary surface color shade 10 */
   --rds-tertiary-surface-20: var(--rds-tertiary-200); /** Tertiary surface color shade 20 */
-  --rds-tertiary-on-tertiary: var(--rds-tertiary-950); /** On-tertiary color */
-  --rds-tertiary-on-tertiary-variant: var(--rds-tertiary-950); /** On-tertiary variant color */
+  --rds-tertiary-color-on-tertiary: var(--rds-tertiary-950); /** color-on-tertiary color */
+  --rds-tertiary-color-on-tertiary-variant: var(--rds-tertiary-950); /** color-on-tertiary variant color */
   --rds-surface-10: var(--rds-neutral-50); /** Surface color shade 10 */
   --rds-surface-20: var(--rds-neutral-100); /** Surface color shade 20 */
   --rds-surface-30: var(--rds-neutral-200); /** Surface color shade 30 */
   --rds-surface-40: var(--rds-neutral-300); /** Surface color shade 40 */
   --rds-surface-50: var(--rds-neutral-600); /** Surface color shade 50 */
-  --rds-surface-on-surface: var(--rds-neutral-950); /** On-surface color */
-  --rds-surface-on-surface-variant: var(--rds-neutral-0); /** On-surface variant color */
+  --rds-surface-color-on-surface: var(--rds-neutral-950); /** color-on-surface color */
+  --rds-surface-color-on-surface-variant: var(--rds-neutral-0); /** color-on-surface variant color */
   --rds-focus-ring-color: var(--rds-secondary-500); /** Focus ring color */
-  --rds-alert-error-on-surface: var(--rds-neutral-950); /** Alert error on-surface color */
+  --rds-alert-error-color-on-surface: var(--rds-neutral-950); /** Alert error color-on-surface color */
   --rds-alert-warning-surface: var(--rds-tertiary-50); /** Alert warning surface color */
-  --rds-alert-warning-on-surface: var(--rds-neutral-950); /** Alert warning on-surface color */
-  --rds-alert-success-on-surface: var(--rds-neutral-950); /** Alert success on-surface color */
-  --rds-alert-info-on-surface: var(--rds-neutral-950); /** Alert info on-surface color */
+  --rds-alert-warning-color-on-surface: var(--rds-neutral-950); /** Alert warning color-on-surface color */
+  --rds-alert-success-color-on-surface: var(--rds-neutral-950); /** Alert success color-on-surface color */
+  --rds-alert-info-color-on-surface: var(--rds-neutral-950); /** Alert info color-on-surface color */
 }

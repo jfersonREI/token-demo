@@ -836,8 +836,6 @@ $rds-breakpoint-xl: 78.75rem; // Breakpoint for extra-large viewports
 $rds-breakpoint-2xl: 87.5rem; // Breakpoint for extra-extra-large viewports
 $rds-white-base: #ffffff; // White color base
 $rds-black-base: #000000; // Black color base
-$rds-color-primitive-red-100: #ff0000;
-$rds-color-primitive-blue-100: #0000ff;
 $rds-state-disabled-lighter: $rds-gray-20; // State disabled lighter color
 $rds-state-disabled-light: $rds-gray-40; // State disabled light color
 $rds-state-disabled-base: $rds-gray-50; // State disabled base color
@@ -954,43 +952,41 @@ $rds-tertiary-900: $rds-tw-yellow-900; // Tertiary color shade 900
 $rds-tertiary-950: $rds-tw-yellow-950; // Tertiary color shade 950
 $rds-surface-base: $rds-white-base; // Surface base color
 $rds-surface-inverse: $rds-black-base; // Inverse surface color
-$rds-surface-on-surface-inverse: $rds-white-base; // On-surface inverse color
+$rds-surface-color-on-surface-inverse: $rds-white-base; // color-on-surface inverse color
 $rds-scrim-base: $rds-alpha-black-100; // Scrim base color
 $rds-alert-error-surface: $rds-tw-rose-50; // Alert error surface color
 $rds-alert-error-border-color: $rds-tw-rose-600; // Alert error border color
-$rds-alert-error-icon-color: $rds-tw-rose-600; // Alert error icon color
+$rds-alert-error-iccolor-on-color: $rds-tw-rose-600; // Alert error icon color
 $rds-alert-warning-border-color: $rds-tw-yellow-500; // Alert warning border color
-$rds-alert-warning-icon-color: $rds-tw-yellow-500; // Alert warning icon color
+$rds-alert-warning-iccolor-on-color: $rds-tw-yellow-500; // Alert warning icon color
 $rds-alert-success-surface: $rds-tw-emerald-50; // Alert success surface color
 $rds-alert-success-border-color: $rds-tw-emerald-600; // Alert success border color
-$rds-alert-success-icon-color: $rds-tw-emerald-600; // Alert success icon color
+$rds-alert-success-iccolor-on-color: $rds-tw-emerald-600; // Alert success icon color
 $rds-alert-info-surface: $rds-tw-blue-50; // Alert info surface color
 $rds-alert-info-border-color: $rds-tw-blue-600; // Alert info border color
-$rds-alert-info-icon-color: $rds-tw-blue-600; // Alert info icon color
-$rds-color-semantic-primary-base: $rds-color-primitive-blue-100;
-$rds-color-semantic-error-base: $rds-color-primitive-red-100;
+$rds-alert-info-iccolor-on-color: $rds-tw-blue-600; // Alert info icon color
 $rds-primary-surface-10: $rds-primary-200; // Primary surface color shade 10
 $rds-primary-surface-20: $rds-primary-300; // Primary surface color shade 20
-$rds-primary-on-primary: $rds-primary-950; // On-primary color
-$rds-primary-on-primary-variant: $rds-primary-950; // On-primary variant color
+$rds-primary-color-on-primary: $rds-primary-950; // color-on-primary color
+$rds-primary-color-on-primary-variant: $rds-primary-950; // color-on-primary variant color
 $rds-secondary-surface-10: $rds-secondary-200; // Secondary surface color shade 10
 $rds-secondary-surface-20: $rds-secondary-300; // Secondary surface color shade 20
-$rds-secondary-on-secondary: $rds-secondary-950; // On-secondary color
-$rds-secondary-on-secondary-variant: $rds-secondary-950; // On-secondary variant color
+$rds-secondary-color-on-secondary: $rds-secondary-950; // color-on-secondary color
+$rds-secondary-color-on-secondary-variant: $rds-secondary-950; // color-on-secondary variant color
 $rds-tertiary-surface-10: $rds-tertiary-100; // Tertiary surface color shade 10
 $rds-tertiary-surface-20: $rds-tertiary-200; // Tertiary surface color shade 20
-$rds-tertiary-on-tertiary: $rds-tertiary-950; // On-tertiary color
-$rds-tertiary-on-tertiary-variant: $rds-tertiary-950; // On-tertiary variant color
+$rds-tertiary-color-on-tertiary: $rds-tertiary-950; // color-on-tertiary color
+$rds-tertiary-color-on-tertiary-variant: $rds-tertiary-950; // color-on-tertiary variant color
 $rds-surface-10: $rds-neutral-50; // Surface color shade 10
 $rds-surface-20: $rds-neutral-100; // Surface color shade 20
 $rds-surface-30: $rds-neutral-200; // Surface color shade 30
 $rds-surface-40: $rds-neutral-300; // Surface color shade 40
 $rds-surface-50: $rds-neutral-600; // Surface color shade 50
-$rds-surface-on-surface: $rds-neutral-950; // On-surface color
-$rds-surface-on-surface-variant: $rds-neutral-0; // On-surface variant color
+$rds-surface-color-on-surface: $rds-neutral-950; // color-on-surface color
+$rds-surface-color-on-surface-variant: $rds-neutral-0; // color-on-surface variant color
 $rds-focus-ring-color: $rds-secondary-500; // Focus ring color
-$rds-alert-error-on-surface: $rds-neutral-950; // Alert error on-surface color
+$rds-alert-error-color-on-surface: $rds-neutral-950; // Alert error color-on-surface color
 $rds-alert-warning-surface: $rds-tertiary-50; // Alert warning surface color
-$rds-alert-warning-on-surface: $rds-neutral-950; // Alert warning on-surface color
-$rds-alert-success-on-surface: $rds-neutral-950; // Alert success on-surface color
-$rds-alert-info-on-surface: $rds-neutral-950; // Alert info on-surface color
+$rds-alert-warning-color-on-surface: $rds-neutral-950; // Alert warning color-on-surface color
+$rds-alert-success-color-on-surface: $rds-neutral-950; // Alert success color-on-surface color
+$rds-alert-info-color-on-surface: $rds-neutral-950; // Alert info color-on-surface color
