@@ -748,53 +748,53 @@
   --rds-font-weight-bold: Bold; /** Bold font weight */
   --rds-font-weight-extrabold: ExtraBold; /** Extrabold font weight */
   --rds-font-style-italic: Italic; /** Italic font style */
-  --rds-display-large-font-size: 57px;
-  --rds-display-large-letter-spacing: -0.7px;
+  --rds-display-large-size: 57px;
+  --rds-display-large-tracking: -0.7px;
   --rds-display-large-line-height: 64px;
-  --rds-display-medium-font-size: 45px;
-  --rds-display-medium-letter-spacing: 0px;
+  --rds-display-medium-size: 45px;
+  --rds-display-medium-tracking: 0px;
   --rds-display-medium-line-height: 52px;
-  --rds-display-small-font-size: 36px;
-  --rds-display-small-letter-spacing: 0px;
+  --rds-display-small-size: 36px;
+  --rds-display-small-tracking: 0px;
   --rds-display-small-line-height: 44px;
-  --rds-headline-large-font-size: 32px;
-  --rds-headline-large-letter-spacing: 0px;
+  --rds-headline-large-size: 32px;
+  --rds-headline-large-tracking: 0px;
   --rds-headline-large-line-height: 40px;
-  --rds-headline-medium-font-size: 28px;
-  --rds-headline-medium-letter-spacing: 0px;
+  --rds-headline-medium-size: 28px;
+  --rds-headline-medium-tracking: 0px;
   --rds-headline-medium-line-height: 36px;
-  --rds-headline-small-font-size: 24px;
-  --rds-headline-small-letter-spacing: 0px;
+  --rds-headline-small-size: 24px;
+  --rds-headline-small-tracking: 0px;
   --rds-headline-small-line-height: 32px;
-  --rds-label-large-font-size: 16px;
-  --rds-label-large-letter-spacing: 0px;
+  --rds-label-large-size: 16px;
+  --rds-label-large-tracking: 0px;
   --rds-label-large-line-height: 24px;
-  --rds-label-medium-font-size: 14px;
-  --rds-label-medium-letter-spacing: 0px;
+  --rds-label-medium-size: 14px;
+  --rds-label-medium-tracking: 0px;
   --rds-label-medium-line-height: 20px;
-  --rds-label-small-font-size: 12px;
-  --rds-label-small-letter-spacing: 0px;
+  --rds-label-small-size: 12px;
+  --rds-label-small-tracking: 0px;
   --rds-label-small-line-height: 16px;
-  --rds-title-large-font-size: 22px;
-  --rds-title-large-letter-spacing: 0px;
+  --rds-title-large-size: 22px;
+  --rds-title-large-tracking: 0px;
   --rds-title-large-line-height: 28px;
-  --rds-title-medium-font-size: 16px;
-  --rds-title-medium-letter-spacing: 0.15px;
+  --rds-title-medium-size: 16px;
+  --rds-title-medium-tracking: 0.15px;
   --rds-title-medium-line-height: 24px;
-  --rds-title-small-font-size: 14px;
-  --rds-title-small-letter-spacing: 0.1px;
+  --rds-title-small-size: 14px;
+  --rds-title-small-tracking: 0.1px;
   --rds-title-small-line-height: 20px;
-  --rds-body-large-font-size: 16px;
-  --rds-body-large-letter-spacing: 0px;
+  --rds-body-large-size: 16px;
+  --rds-body-large-tracking: 0px;
   --rds-body-large-line-height: 24px;
-  --rds-body-medium-font-size: 14px;
-  --rds-body-medium-letter-spacing: 0.25px;
+  --rds-body-medium-size: 14px;
+  --rds-body-medium-tracking: 0.25px;
   --rds-body-medium-line-height: 20px;
-  --rds-body-small-font-size: 12px;
-  --rds-body-small-letter-spacing: 0px;
+  --rds-body-small-size: 12px;
+  --rds-body-small-tracking: 0px;
   --rds-body-small-line-height: 16px;
-  --rds-body-xl-font-size: 18px;
-  --rds-body-xl-letter-spacing: 0px;
+  --rds-body-xl-size: 18px;
+  --rds-body-xl-tracking: 0px;
   --rds-body-xl-line-height: 30px;
   --rds-spacing-0: 0px; /** Spacing size 0 */
   --rds-spacing-25: 2px; /** Spacing size 25 */
@@ -983,22 +983,22 @@
   --rds-font-role-body: var(--rds-font-family-sans-2); /** Body text font role */
   --rds-font-role-heading: var(--rds-font-family-sans-1); /** Heading text font role */
   --rds-font-role-label: var(--rds-font-family-sans-2); /** Label text font role */
-  --rds-display-large-font-weight: var(--rds-font-weight-semibold);
-  --rds-display-medium-font-weight: var(--rds-font-weight-semibold);
-  --rds-display-small-font-weight: var(--rds-font-weight-semibold);
-  --rds-headline-large-font-weight: var(--rds-font-weight-semibold);
-  --rds-headline-medium-font-weight: var(--rds-font-weight-semibold);
-  --rds-headline-small-font-weight: var(--rds-font-weight-semibold);
-  --rds-label-large-font-weight: var(--rds-font-weight-medium);
-  --rds-label-medium-font-weight: var(--rds-font-weight-medium);
-  --rds-label-small-font-weight: var(--rds-font-weight-medium);
-  --rds-title-large-font-weight: var(--rds-font-weight-medium);
-  --rds-title-medium-font-weight: var(--rds-font-weight-medium);
-  --rds-title-small-font-weight: var(--rds-font-weight-medium);
-  --rds-body-large-font-weight: var(--rds-font-weight-regular);
-  --rds-body-medium-font-weight: var(--rds-font-weight-regular);
-  --rds-body-small-font-weight: var(--rds-font-weight-regular);
-  --rds-body-xl-font-weight: var(--rds-font-weight-light);
+  --rds-display-large-weight: var(--rds-font-weight-semibold);
+  --rds-display-medium-weight: var(--rds-font-weight-semibold);
+  --rds-display-small-weight: var(--rds-font-weight-semibold);
+  --rds-headline-large-weight: var(--rds-font-weight-semibold);
+  --rds-headline-medium-weight: var(--rds-font-weight-semibold);
+  --rds-headline-small-weight: var(--rds-font-weight-semibold);
+  --rds-label-large-weight: var(--rds-font-weight-medium);
+  --rds-label-medium-weight: var(--rds-font-weight-medium);
+  --rds-label-small-weight: var(--rds-font-weight-medium);
+  --rds-title-large-weight: var(--rds-font-weight-medium);
+  --rds-title-medium-weight: var(--rds-font-weight-medium);
+  --rds-title-small-weight: var(--rds-font-weight-medium);
+  --rds-body-large-weight: var(--rds-font-weight-regular);
+  --rds-body-medium-weight: var(--rds-font-weight-regular);
+  --rds-body-small-weight: var(--rds-font-weight-regular);
+  --rds-body-xl-weight: var(--rds-font-weight-light);
   --rds-neutral-0: var(--rds-alpha-white-0); /** Neutral color shade 0 */
   --rds-neutral-50: var(--rds-tw-slate-50); /** Neutral color shade 50 */
   --rds-neutral-100: var(--rds-tw-slate-100); /** Neutral color shade 100 */
@@ -1071,22 +1071,22 @@
   --rds-alert-info-surface: var(--rds-tw-blue-50); /** Alert info surface color */
   --rds-alert-info-border-color: var(--rds-tw-blue-600); /** Alert info border color */
   --rds-alert-info-iccolor-on-color: var(--rds-tw-blue-600); /** Alert info icon color */
-  --rds-display-large-font-family: var(--rds-font-role-heading);
-  --rds-display-medium-font-family: var(--rds-font-role-heading);
-  --rds-display-small-font-family: var(--rds-font-role-heading);
-  --rds-headline-large-font-family: var(--rds-font-role-heading);
-  --rds-headline-medium-font-family: var(--rds-font-role-heading);
-  --rds-headline-small-font-family: var(--rds-font-role-heading);
-  --rds-label-large-font-family: var(--rds-font-role-body);
-  --rds-label-medium-font-family: var(--rds-font-role-body);
-  --rds-label-small-font-family: var(--rds-font-role-body);
-  --rds-title-large-font-family: var(--rds-font-role-heading);
-  --rds-title-medium-font-family: var(--rds-font-role-heading);
-  --rds-title-small-font-family: var(--rds-font-role-heading);
-  --rds-body-large-font-family: var(--rds-font-role-body);
-  --rds-body-medium-font-family: var(--rds-font-role-body);
-  --rds-body-small-font-family: var(--rds-font-role-body);
-  --rds-body-xl-font-family: var(--rds-font-role-body);
+  --rds-display-large-font: var(--rds-font-role-heading);
+  --rds-display-medium-font: var(--rds-font-role-heading);
+  --rds-display-small-font: var(--rds-font-role-heading);
+  --rds-headline-large-font: var(--rds-font-role-heading);
+  --rds-headline-medium-font: var(--rds-font-role-heading);
+  --rds-headline-small-font: var(--rds-font-role-heading);
+  --rds-label-large-font: var(--rds-font-role-body);
+  --rds-label-medium-font: var(--rds-font-role-body);
+  --rds-label-small-font: var(--rds-font-role-body);
+  --rds-title-large-font: var(--rds-font-role-heading);
+  --rds-title-medium-font: var(--rds-font-role-heading);
+  --rds-title-small-font: var(--rds-font-role-heading);
+  --rds-body-large-font: var(--rds-font-role-body);
+  --rds-body-medium-font: var(--rds-font-role-body);
+  --rds-body-small-font: var(--rds-font-role-body);
+  --rds-body-xl-font: var(--rds-font-role-body);
   --rds-primary-surface-10: var(--rds-primary-200); /** Primary surface color shade 10 */
   --rds-primary-surface-20: var(--rds-primary-300); /** Primary surface color shade 20 */
   --rds-primary-color-on-primary: var(--rds-primary-950); /** color-on-primary color */
