@@ -746,6 +746,54 @@ $rds-font-weight-semibold: Semibold; // Semibold font weight
 $rds-font-weight-bold: Bold; // Bold font weight
 $rds-font-weight-extrabold: ExtraBold; // Extrabold font weight
 $rds-font-style-italic: Italic; // Italic font style
+$rds-display-large-font-size: 57px;
+$rds-display-large-letter-spacing: -0.7px;
+$rds-display-large-line-height: 64px;
+$rds-display-medium-font-size: 45px;
+$rds-display-medium-letter-spacing: 0px;
+$rds-display-medium-line-height: 52px;
+$rds-display-small-font-size: 36px;
+$rds-display-small-letter-spacing: 0px;
+$rds-display-small-line-height: 44px;
+$rds-headline-large-font-size: 32px;
+$rds-headline-large-letter-spacing: 0px;
+$rds-headline-large-line-height: 40px;
+$rds-headline-medium-font-size: 28px;
+$rds-headline-medium-letter-spacing: 0px;
+$rds-headline-medium-line-height: 36px;
+$rds-headline-small-font-size: 24px;
+$rds-headline-small-letter-spacing: 0px;
+$rds-headline-small-line-height: 32px;
+$rds-label-large-font-size: 16px;
+$rds-label-large-letter-spacing: 0px;
+$rds-label-large-line-height: 24px;
+$rds-label-medium-font-size: 14px;
+$rds-label-medium-letter-spacing: 0px;
+$rds-label-medium-line-height: 20px;
+$rds-label-small-font-size: 12px;
+$rds-label-small-letter-spacing: 0px;
+$rds-label-small-line-height: 16px;
+$rds-title-large-font-size: 22px;
+$rds-title-large-letter-spacing: 0px;
+$rds-title-large-line-height: 28px;
+$rds-title-medium-font-size: 16px;
+$rds-title-medium-letter-spacing: 0.15px;
+$rds-title-medium-line-height: 24px;
+$rds-title-small-font-size: 14px;
+$rds-title-small-letter-spacing: 0.1px;
+$rds-title-small-line-height: 20px;
+$rds-body-large-font-size: 16px;
+$rds-body-large-letter-spacing: 0px;
+$rds-body-large-line-height: 24px;
+$rds-body-medium-font-size: 14px;
+$rds-body-medium-letter-spacing: 0.25px;
+$rds-body-medium-line-height: 20px;
+$rds-body-small-font-size: 12px;
+$rds-body-small-letter-spacing: 0px;
+$rds-body-small-line-height: 16px;
+$rds-body-xl-font-size: 18px;
+$rds-body-xl-letter-spacing: 0px;
+$rds-body-xl-line-height: 30px;
 $rds-spacing-0: 0px; // Spacing size 0
 $rds-spacing-25: 2px; // Spacing size 25
 $rds-spacing-50: 4px; // Spacing size 50
@@ -933,6 +981,22 @@ $rds-theme-secondary-darker: $rds-red-vivid-70v; // Theme secondary darker color
 $rds-font-role-body: $rds-font-family-sans-2; // Body text font role
 $rds-font-role-heading: $rds-font-family-sans-1; // Heading text font role
 $rds-font-role-label: $rds-font-family-sans-2; // Label text font role
+$rds-display-large-font-weight: $rds-font-weight-semibold;
+$rds-display-medium-font-weight: $rds-font-weight-semibold;
+$rds-display-small-font-weight: $rds-font-weight-semibold;
+$rds-headline-large-font-weight: $rds-font-weight-semibold;
+$rds-headline-medium-font-weight: $rds-font-weight-semibold;
+$rds-headline-small-font-weight: $rds-font-weight-semibold;
+$rds-label-large-font-weight: $rds-font-weight-medium;
+$rds-label-medium-font-weight: $rds-font-weight-medium;
+$rds-label-small-font-weight: $rds-font-weight-medium;
+$rds-title-large-font-weight: $rds-font-weight-medium;
+$rds-title-medium-font-weight: $rds-font-weight-medium;
+$rds-title-small-font-weight: $rds-font-weight-medium;
+$rds-body-large-font-weight: $rds-font-weight-regular;
+$rds-body-medium-font-weight: $rds-font-weight-regular;
+$rds-body-small-font-weight: $rds-font-weight-regular;
+$rds-body-xl-font-weight: $rds-font-weight-light;
 $rds-neutral-0: $rds-alpha-white-0; // Neutral color shade 0
 $rds-neutral-50: $rds-tw-slate-50; // Neutral color shade 50
 $rds-neutral-100: $rds-tw-slate-100; // Neutral color shade 100
@@ -1005,6 +1069,22 @@ $rds-alert-success-iccolor-on-color: $rds-tw-emerald-600; // Alert success icon 
 $rds-alert-info-surface: $rds-tw-blue-50; // Alert info surface color
 $rds-alert-info-border-color: $rds-tw-blue-600; // Alert info border color
 $rds-alert-info-iccolor-on-color: $rds-tw-blue-600; // Alert info icon color
+$rds-display-large-font-family: $rds-font-role-heading;
+$rds-display-medium-font-family: $rds-font-role-heading;
+$rds-display-small-font-family: $rds-font-role-heading;
+$rds-headline-large-font-family: $rds-font-role-heading;
+$rds-headline-medium-font-family: $rds-font-role-heading;
+$rds-headline-small-font-family: $rds-font-role-heading;
+$rds-label-large-font-family: $rds-font-role-body;
+$rds-label-medium-font-family: $rds-font-role-body;
+$rds-label-small-font-family: $rds-font-role-body;
+$rds-title-large-font-family: $rds-font-role-heading;
+$rds-title-medium-font-family: $rds-font-role-heading;
+$rds-title-small-font-family: $rds-font-role-heading;
+$rds-body-large-font-family: $rds-font-role-body;
+$rds-body-medium-font-family: $rds-font-role-body;
+$rds-body-small-font-family: $rds-font-role-body;
+$rds-body-xl-font-family: $rds-font-role-body;
 $rds-primary-surface-10: $rds-primary-200; // Primary surface color shade 10
 $rds-primary-surface-20: $rds-primary-300; // Primary surface color shade 20
 $rds-primary-color-on-primary: $rds-primary-950; // color-on-primary color
